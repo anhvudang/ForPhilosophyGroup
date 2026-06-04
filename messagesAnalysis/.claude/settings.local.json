@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 *)",
+      "Bash(~/miniconda3/envs/data_analysis/bin/python *)",
+      "Bash(~/miniconda3/envs/data_analysis/bin/pip install *)"
+    ]
+  }
+}
