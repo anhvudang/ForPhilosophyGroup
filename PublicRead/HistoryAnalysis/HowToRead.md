@@ -1,0 +1,1 @@
+Each folder will contain a `main.md` file that summary that period of time. It will link to other supporting files in the same folder.
