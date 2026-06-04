@@ -1,0 +1,4 @@
+# Ignore everything in this folder, including this file's siblings,
+# but keep the .gitignore itself so the rule is preserved in the repo.
+*
+!.gitignore
