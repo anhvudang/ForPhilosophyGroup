@@ -1,6 +1,6 @@
 # Where Do We Come From? What Are We? Where Are We Going? — Four Answers
 
-*Extended notes answering Gauguin's three questions for four worldviews. Summary version: [main.md](main.md#people-questions-where-do-we-come-from-what-are-we-where-are-we-going).*
+*Extended notes answering Gauguin's three questions for four worldviews. Summary version: [readme.md](readme.md#people-questions-where-do-we-come-from-what-are-we-where-are-we-going).*
 
 ---
 

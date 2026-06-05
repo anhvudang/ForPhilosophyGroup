@@ -1,6 +1,6 @@
 # Socrates, Plato và Phép Ngụ Ngôn Cái Hang — Ghi Chú Chi Tiết
 
-*Tài liệu bổ sung cho [Văn Minh Hy Lạp — Phiên Tòa Xét Xử Socrates](main_vi.md)*
+*Tài liệu bổ sung cho [Văn Minh Hy Lạp — Phiên Tòa Xét Xử Socrates](readme_vi.md)*
 
 ## Socrates: Con Ruồi Trâu Của Athens
 

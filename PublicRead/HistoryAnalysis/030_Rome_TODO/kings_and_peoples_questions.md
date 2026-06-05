@@ -1,6 +1,6 @@
 # The King's Three Questions (and the People's) — Detailed
 
-*Extended notes on how founders convert conquest into durable rule. Summary version: [main.md](main.md#kings-questions-legitimacy-identity-differentiation). Synthesizes Weber, Anderson, Hobsbawm, and Schmitt with the Roman case.*
+*Extended notes on how founders convert conquest into durable rule. Summary version: [readme.md](readme.md#kings-questions-legitimacy-identity-differentiation). Synthesizes Weber, Anderson, Hobsbawm, and Schmitt with the Roman case.*
 
 ---
 

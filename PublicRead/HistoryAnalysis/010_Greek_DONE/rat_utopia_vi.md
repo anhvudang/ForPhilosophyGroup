@@ -1,6 +1,6 @@
 # Thiên Đường Chuột — Ghi Chú Chi Tiết
 
-*Tài liệu bổ sung cho [Văn Minh Hy Lạp — Thiên Đường Chuột và Chiến Tranh Peloponnesus](main_vi.md)*
+*Tài liệu bổ sung cho [Văn Minh Hy Lạp — Thiên Đường Chuột và Chiến Tranh Peloponnesus](readme_vi.md)*
 
 ## Thí Nghiệm
 

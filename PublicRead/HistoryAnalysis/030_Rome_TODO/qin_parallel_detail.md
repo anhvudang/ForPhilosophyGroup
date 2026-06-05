@@ -1,6 +1,6 @@
 # Cohesion Over Resources: Rome and the Qin Parallel — Detailed
 
-*Extended notes on why cohesion beats mass and wealth, with the Chinese parallel. Summary version: [main.md](main.md#power--mass-x-energy-x-cohesion).*
+*Extended notes on why cohesion beats mass and wealth, with the Chinese parallel. Summary version: [readme.md](readme.md#power--mass-x-energy-x-cohesion).*
 
 ---
 

@@ -1,6 +1,6 @@
 # Homer vs. Vergil: The War for the Soul of Rome — Detailed
 
-*Extended notes on how Augustus used the Aeneid to rewrite Rome's soul. Summary version: [main.md](main.md#the-soul-of-rome-homer-vs-vergil).*
+*Extended notes on how Augustus used the Aeneid to rewrite Rome's soul. Summary version: [readme.md](readme.md#the-soul-of-rome-homer-vs-vergil).*
 
 ---
 
@@ -40,7 +40,7 @@ The poem frames **Augustus as the end-point of history**: the **Pax Romana** as 
 
 ## Link to the Three Human Questions
 
-This is also Rome answering the people's deepest questions (see [main.md](main.md#people-questions-where-do-we-come-from-what-are-we-where-are-we-going) and [the king's-and-people's questions](kings_and_peoples_questions.md)):
+This is also Rome answering the people's deepest questions (see [readme.md](readme.md#people-questions-where-do-we-come-from-what-are-we-where-are-we-going) and [the king's-and-people's questions](kings_and_peoples_questions.md)):
 - **Where do we come from?** Troy, through Aeneas, by divine destiny.
 - **What are we?** A people defined by *pietas* — duty and devotion to Rome above self.
 - **Where are we going?** Toward *Roma Aeterna*, "empire without end" (*imperium sine fine*), the Pax Romana as history's destination.

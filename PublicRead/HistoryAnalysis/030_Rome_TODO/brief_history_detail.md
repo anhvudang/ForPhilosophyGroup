@@ -1,6 +1,6 @@
 # A Brief History of Rome — Detailed
 
-*Extended narrative from the fall of Troy to the Augustan settlement. Summary version: [main.md](main.md#a-brief-history-of-rome). Dates marked [legendary] are traditional; the early stories are oral tradition written down by Livy under the early Empire — "what matters is not whether they are true, but that the Romans believed them."*
+*Extended narrative from the fall of Troy to the Augustan settlement. Summary version: [readme.md](readme.md#a-brief-history-of-rome). Dates marked [legendary] are traditional; the early stories are oral tradition written down by Livy under the early Empire — "what matters is not whether they are true, but that the Romans believed them."*
 
 ---
 

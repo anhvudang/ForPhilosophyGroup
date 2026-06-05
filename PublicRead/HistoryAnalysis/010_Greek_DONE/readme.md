@@ -2,7 +2,7 @@
 
 ## Homer's Iliad and the Birth of Greek Civilization
 
-The Bronze Age Collapse (~1100 BC) paradoxically created the conditions for Greek greatness. Mycenae's destruction left Greece decentralized, illiterate, and poor — and those three deficits became the engine of innovation. (See: [Bronze Age Collapse](../000_BronzeAgeCollapse/main.md))
+The Bronze Age Collapse (~1100 BC) paradoxically created the conditions for Greek greatness. Mycenae's destruction left Greece decentralized, illiterate, and poor — and those three deficits became the engine of innovation. (See: [Bronze Age Collapse](../000_BronzeAgeCollapse/readme.md))
 
 Three innovations emerged from the chaos:
 

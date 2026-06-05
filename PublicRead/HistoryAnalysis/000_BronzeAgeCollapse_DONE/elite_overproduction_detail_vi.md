@@ -1,6 +1,6 @@
 # Sản Xuất Thừa Tầng Lớp Tinh Hoa — Chi Tiết
 
-*Ghi chú mở rộng về lý thuyết của Peter Turchin áp dụng cho Sự Sụp Đổ Thời Đại Đồng Thau. Phiên bản tóm tắt: [main_vi.md](main_vi.md#sản-xuất-thừa-tầng-lớp-tinh-hoa)*
+*Ghi chú mở rộng về lý thuyết của Peter Turchin áp dụng cho Sự Sụp Đổ Thời Đại Đồng Thau. Phiên bản tóm tắt: [readme_vi.md](readme_vi.md#sản-xuất-thừa-tầng-lớp-tinh-hoa)*
 
 ---
 

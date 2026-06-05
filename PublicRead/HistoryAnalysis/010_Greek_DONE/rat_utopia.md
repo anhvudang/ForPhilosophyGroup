@@ -1,6 +1,6 @@
 # Rat Utopia — Detailed Notes
 
-*Supporting detail for [Greek Civ — Rat Utopia and the Peloponnesian War](main.md)*
+*Supporting detail for [Greek Civ — Rat Utopia and the Peloponnesian War](readme.md)*
 
 ## The Experiment
 

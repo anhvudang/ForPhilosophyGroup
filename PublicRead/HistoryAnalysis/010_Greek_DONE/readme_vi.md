@@ -2,7 +2,7 @@
 
 ## Homer và Sự Ra Đời Của Nền Văn Minh Hy Lạp
 
-Sự Sụp Đổ Thời Đại Đồng Thau (~1100 TCN) đã tạo ra một nghịch lý: những điều kiện cho sự vĩ đại của Hy Lạp. Sự hủy diệt Mycenae để lại Hy Lạp trong tình trạng phi tập trung, mù chữ và nghèo nàn — và ba thiếu hụt đó trở thành động cơ của đổi mới. (Xem: [Sự Sụp Đổ Thời Đại Đồng Thau](../000_BronzeAgeCollapse_DONE/main_vi.md))
+Sự Sụp Đổ Thời Đại Đồng Thau (~1100 TCN) đã tạo ra một nghịch lý: những điều kiện cho sự vĩ đại của Hy Lạp. Sự hủy diệt Mycenae để lại Hy Lạp trong tình trạng phi tập trung, mù chữ và nghèo nàn — và ba thiếu hụt đó trở thành động cơ của đổi mới. (Xem: [Sự Sụp Đổ Thời Đại Đồng Thau](../000_BronzeAgeCollapse_DONE/readme_vi.md))
 
 Ba đổi mới xuất hiện từ sự hỗn loạn:
 

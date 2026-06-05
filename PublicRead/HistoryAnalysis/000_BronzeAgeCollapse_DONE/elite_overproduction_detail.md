@@ -1,6 +1,6 @@
 # Elite Overproduction — Detailed
 
-*Extended notes on Peter Turchin's theory as applied to the Bronze Age Collapse. Summary version: [main.md](main.md#elite-overproduction)*
+*Extended notes on Peter Turchin's theory as applied to the Bronze Age Collapse. Summary version: [readme.md](readme.md#elite-overproduction)*
 
 ---
 

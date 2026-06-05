@@ -1,6 +1,6 @@
 # Socrates, Plato, and the Allegory of the Cave — Detailed Notes
 
-*Supporting detail for [Greek Civ — Trial of Socrates](main.md)*
+*Supporting detail for [Greek Civ — Trial of Socrates](readme.md)*
 
 ## Socrates: The Gadfly of Athens
 
