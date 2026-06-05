@@ -5,7 +5,13 @@
       "Bash(~/miniconda3/envs/data_analysis/bin/python *)",
       "Bash(~/miniconda3/envs/data_analysis/bin/pip install *)",
       "Bash(python _insert_cells.py)",
-      "Bash(python *)"
+      "Bash(python *)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "Skill(deep-research)",
+      "WebFetch(domain:www.britannica.com)",
+      "WebFetch(domain:plato.stanford.edu)",
+      "WebFetch(domain:quoteinvestigator.com)",
+      "WebFetch(domain:www.google.com)"
     ]
   }
 }
