@@ -33,6 +33,22 @@ These two models — persuasion through reason/speech vs. persuasion through for
 
 ---
 
+## The Persian Wars (499–479 BC)
+
+See full detail: [Persian Wars](persian_wars.md)
+
+The Ionian Revolt (499 BC) triggered two Persian invasions. Athens repelled the first at **Marathon** (490 BC) — 10,000 hoplites against 25,000 Persians, losses ~192 vs ~5,000 — proving the hoplite phalanx superior to Persian cavalry archers. The second invasion under Xerxes (480 BC) was far larger. **Thermopylae** bought time: 300 Spartans and ~7,000 Greeks held a narrow coastal pass for two days before betrayal forced a last stand. **Salamis** was decisive: Themistocles lured the Persian fleet into the straits, where Greek triremes destroyed ~300 Persian ships. Xerxes went home. **Plataea** (479 BC) finished the land war — Mardonius killed, invasion over.
+
+The wars mattered less as military events than as economic ones: Greece went in poor and came out wealthy, with Persian treasure funding the Delian League, the Parthenon, and everything that followed.
+
+---
+
+## The Golden Age of Athens & the Delian League (478–431 BC)
+
+After the Persian Wars, Athens turned the **Delian League** (478 BC) — a defensive alliance against Persia — into the **Athenian Empire**, funneling allied tribute into Periclean Athens. The same wealth and ambition that built the Parthenon and produced the Golden Age also made Athens overbearing, setting the stage for the Peloponnesian War. See details: [The Golden Age of Athens](golden_age_athens_detail.md)
+
+---
+
 ## Rat Utopia and the Peloponnesian War
 
 The Peloponnesian War (431–404 BC) was not really a war between Athens and Sparta — it was a symptom of societal breakdown caused by wealth. See details: [Rat Utopia](rat_utopia.md)

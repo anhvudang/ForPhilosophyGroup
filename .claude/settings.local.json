@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:commons.wikimedia.org)",
+      "Bash(curl -L -A \"Mozilla/5.0\" -o \"/Users/vudang/Documents/Projects/PhilosophyGroup/PublicRead/HistoryAnalysis/010_Greek_DONE/images/hoplite_phalanx.jpg\" \"https://upload.wikimedia.org/wikipedia/commons/e/ed/Greek_Phalanx.jpg\")",
+      "Bash(curl -L -A \"Mozilla/5.0\" -o \"/Users/vudang/Documents/Projects/PhilosophyGroup/PublicRead/HistoryAnalysis/010_Greek_DONE/images/battle_thermopylae.jpg\" \"https://upload.wikimedia.org/wikipedia/commons/6/64/Leonidas_at_Thermopylae%2C_1814%2C_by_Jacques-Louis_David%2C_depicting_Sparta%27s_King_Leonidas_before_the_Battle_of_Thermopylae._%2811606613584%29.jpg\")",
+      "Bash(curl -L -A \"Mozilla/5.0\" -o \"/Users/vudang/Documents/Projects/PhilosophyGroup/PublicRead/HistoryAnalysis/010_Greek_DONE/images/battle_salamis.jpg\" \"https://upload.wikimedia.org/wikipedia/commons/9/9e/Kaulbach%2C_Wilhelm_von_-_Die_Seeschlacht_bei_Salamis_-_1868.JPG\")",
+      "WebFetch(domain:en.wikipedia.org)",
+      "Bash(curl -sL -A \"Mozilla/5.0\" \"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Parthenon_in_Athens.jpg/1280px-The_Parthenon_in_Athens.jpg\" -o parthenon.jpg)",
+      "Bash(curl -sL -A \"Mozilla/5.0\" \"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Akropolis_by_Leo_von_Klenze.jpg/1280px-Akropolis_by_Leo_von_Klenze.jpg\" -o acropolis_reconstruction.jpg)",
+      "Bash(curl -sL -A \"Mozilla/5.0\" \"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Pericles_Pio-Clementino_Inv269_n2.jpg/800px-Pericles_Pio-Clementino_Inv269_n2.jpg\" -o pericles_bust.jpg)",
+      "Bash(curl -sL -A \"Mozilla/5.0\" \"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sir_Lawrence_Alma-Tadema%2C_RA%2C_OM_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends_-_Google_Art_Project.jpg/1280px-Sir_Lawrence_Alma-Tadema%2C_RA%2C_OM_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends_-_Google_Art_Project.jpg\" -o pheidias_parthenon_frieze.jpg)",
+      "Bash(rm -f pheidias_parthenon_frieze.jpg)",
+      "Bash(curl -sL --compressed -H 'User-Agent: __TRACKED_VAR__' -H 'Referer: https://commons.wikimedia.org/' https://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Lawrence%20Alma-Tadema,%20RA,%20OM%20-%20Phidias%20Showing%20the%20Frieze%20of%20the%20Parthenon%20to%20his%20Friends%20-%20Google%20Art%20Project.jpg?width=1280 -o pheidias_parthenon_frieze.jpg)",
+      "Bash(curl -sL --compressed -H 'User-Agent: __TRACKED_VAR__' -H 'Referer: https://commons.wikimedia.org/' https://commons.wikimedia.org/wiki/Special:FilePath/Discurso_funebre_pericles.PNG?width=1280 -o pericles_funeral_oration.jpg)"
+    ]
+  }
+}
