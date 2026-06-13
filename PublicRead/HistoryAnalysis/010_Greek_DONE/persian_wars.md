@@ -15,6 +15,9 @@ Darius I sent a punitive force of ~25,000 Persians to teach Athens a lesson. Ath
 ![Greek hoplite phalanx formation](images/hoplite_phalanx.jpg)
 *The hoplite phalanx: an armored wall of shields and spears that negated Persian cavalry tactics.*
 
+![Battle of Marathon — initial positions](images/battle_marathon_initial.png)
+*Tactical map: initial troop dispositions at Marathon — Greek hoplites anchored at the flanks, then charged to envelop the Persian center.*
+
 Athens destroyed the Persian force. Athenian casualties: ~192. Persian casualties: ~5,000. The result stunned the ancient world and gave Athens a mythology of invincibility — one small city had stopped the greatest empire on earth.
 
 ---
@@ -39,6 +42,9 @@ Xerxes' emissary had demanded the Greeks lay down their weapons. Leonidas's repl
 
 The Spartan epitaph, written by Simonides: *"O stranger, tell the Lacedaemonians that we lie here, obedient to their words."*
 
+![Battle of Thermopylae — formation diagram](images/battle_thermopylae_formation.svg)
+*Tactical diagram: Greek phalanx blocking the narrow pass at Thermopylae, with Ephialtes' flanking route circling the mountain.*
+
 ![Leonidas at Thermopylae (Jacques-Louis David, 1814)](images/battle_thermopylae.jpg)
 *"Leonidas at Thermopylae" by Jacques-Louis David (1814). Sparta's king and his warriors before their last stand.*
 
@@ -60,6 +66,9 @@ The Athenian general **Themistocles** saw what others missed. The Persians had ~
 
 Result: Persia lost ~300 ships. Greece lost ~40. Xerxes' brother Ariabignes was killed in the fighting.
 
+![Battle of Salamis — fleet positions](images/battle_salamis_formation.jpg)
+*Tactical map: Greek and Persian fleet dispositions in the Strait of Salamis — narrow water negated Persian numerical superiority.*
+
 ![Battle of Salamis (Wilhelm von Kaulbach, 1868)](images/battle_salamis.jpg)
 *"The Battle of Salamis" by Wilhelm von Kaulbach (1868). Greek and Persian fleets clash in the straits.*
 
@@ -68,6 +77,9 @@ With his supply lines cut and his navy destroyed, Xerxes went home. He left his 
 ---
 
 ## Battle of Plataea (479 BC)
+
+![Battle of Plataea — initial movements](images/battle_plataea_initial.svg)
+*Tactical map: initial troop movements at Plataea — Greek and Persian forces maneuvering before the decisive engagement.*
 
 Mardonius could have waited the Greeks out — Athens was in ruins, resources were thin, starvation was plausible. Instead he chose battle. At Plataea in Boeotia, ~80,000 Greeks (Spartans and Athenians fighting together again) faced a Persian force of similar size. The Greeks won decisively. Mardonius was killed. Persian survivors fled north toward the Hellespont. On the same day, Greek forces destroyed the remaining Persian navy at Cape Mycale.
 

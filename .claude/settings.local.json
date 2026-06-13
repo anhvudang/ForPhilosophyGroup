@@ -24,7 +24,12 @@
       "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); pages=d['query']['pages']; [print\\(p.get\\('thumbnail',{}\\).get\\('source','none'\\)\\) for p in pages.values\\(\\)]\")",
       "Bash(curl -s \"https://en.wikipedia.org/w/api.php?action=query&titles=Oedipus_Rex&prop=pageimages&format=json&pithumbsize=400\")",
       "Bash(curl -L -A Mozilla/5.0 -o /Users/vudang/Documents/Projects/PhilosophyGroup/PublicRead/HistoryAnalysis/010_Greek_DONE/images/euripides_bust.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Euripide_%28cropped%29.jpg/500px-Euripide_%28cropped%29.jpg -w '%{http_code} %{size_download}\\\\n' -s)",
-      "Bash(curl -L -A Mozilla/5.0 -o /Users/vudang/Documents/Projects/PhilosophyGroup/PublicRead/HistoryAnalysis/010_Greek_DONE/images/oedipus_sphinx.jpg https://upload.wikimedia.org/wikipedia/commons/6/69/Oedipus.jpg -w '%{http_code} %{size_download}\\\\n' -s)"
+      "Bash(curl -L -A Mozilla/5.0 -o /Users/vudang/Documents/Projects/PhilosophyGroup/PublicRead/HistoryAnalysis/010_Greek_DONE/images/oedipus_sphinx.jpg https://upload.wikimedia.org/wikipedia/commons/6/69/Oedipus.jpg -w '%{http_code} %{size_download}\\\\n' -s)",
+      "Bash(curl -L -A Mozilla/5.0 -o /Users/vudang/Documents/Projects/PhilosophyGroup/PublicRead/HistoryAnalysis/010_Greek_DONE/images/battle_marathon_phase2.svg https://upload.wikimedia.org/wikipedia/commons/5/5d/Second_phase_of_the_Battle_of_Marathon-the_Greeks_attack_and_the_lines_make_contact.svg -w '%{http_code} %{size_download}\\\\n' -s)",
+      "Bash(curl -s \"https://en.wikipedia.org/w/api.php?action=query&titles=Battle_of_Marathon&prop=images&format=json&imlimit=50\")",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 *)",
+      "Bash(curl *)"
     ]
   }
 }
