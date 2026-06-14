@@ -2,13 +2,25 @@
 
 ## Homer's Iliad and the Birth of Greek Civilization
 
+![Bust of Homer](images/homer_bust.jpg)
+*Roman marble bust of Homer, British Museum (2nd century AD copy of a Hellenistic original)*
+
 The Bronze Age Collapse (~1100 BC) paradoxically created the conditions for Greek greatness. Mycenae's destruction left Greece decentralized, illiterate, and poor — and those three deficits became the engine of innovation. (See: [Bronze Age Collapse](../000_BronzeAgeCollapse/readme.md))
 
 Three innovations emerged from the chaos:
 
+![Ancient Agora of Athens](images/ancient_agora_polis.jpg)
+*The Ancient Agora of Athens — the civic and commercial heart of the polis*
+
 **The Polis** — Without centralized authority, thousands of small city-states (~1,000 people each) formed across Greece. Competition between poleis drove constant innovation. Geographic diversity (mountains, plains, coast) meant each polis developed distinct cultures and economies. Poverty forced broad military participation, which gave rise to democracy: if you fight for the city, you have the right to speak.
 
+![Phoenician Alphabet](images/phoenician_alphabet.svg)
+*The Phoenician alphabet — the direct ancestor the Greeks adapted, making literacy accessible to all*
+
 **The Alphabet** — When the Greeks relearned literacy, they adopted the Phoenician consonantal alphabet rather than rebuilding a complex scribal system. Unlike Chinese ideograms, which professional scribes monopolized as a power tool, the alphabet was simple enough for everyone to learn. This democratized literacy and blended oral culture (emotional, imaginative, strong memory) with written culture (logical, reflective) — producing a uniquely powerful mode of thought.
+
+![Trojan War — Iliad Scene](images/trojan_war_iliad.jpg)
+*Achilles sacrificing Trojan prisoners at Patroclus' funeral pyre — a scene from the Iliad*
 
 **Homer** — Homer's *Iliad* and *Odyssey* invented literature by doing three things never done before: (1) switching perspective so that the Trojans appear more heroic than the Greeks, creating empathy; (2) explaining character psychology — what drives Achilles; (3) using metaphors as tools for new thought. Homer placed a theory of humanity at the center of Greek culture: to be human is to have empathy, imagination, and the willingness to think.
 
@@ -33,17 +45,63 @@ These two models — persuasion through reason/speech vs. persuasion through for
 
 ---
 
+## The Persian Wars (499–479 BC)
+
+See full detail: [Persian Wars](persian_wars.md)
+
+![Battle of Marathon — Greek Double Envelopment](images/battle_marathon.jpg)
+*Miltiades' double envelopment at Marathon (490 BC) — 10,000 hoplites vs. 25,000 Persians*
+
+![Hoplite Phalanx](images/hoplite_phalanx.jpg)
+*The hoplite phalanx formation that proved decisive at Marathon*
+
+![Battle of Thermopylae](images/battle_thermopylae.jpg)
+*Thermopylae — 300 Spartans and 7,000 Greeks held the pass for two days*
+
+![Battle of Salamis](images/battle_salamis.jpg)
+*Salamis (480 BC) — Themistocles lured the Persian fleet into the straits and destroyed ~300 ships*
+
+The Ionian Revolt (499 BC) triggered two Persian invasions. Athens repelled the first at **Marathon** (490 BC) — 10,000 hoplites against 25,000 Persians, losses ~192 vs ~5,000 — proving the hoplite phalanx superior to Persian cavalry archers. The second invasion under Xerxes (480 BC) was far larger. **Thermopylae** bought time: 300 Spartans and ~7,000 Greeks held a narrow coastal pass for two days before betrayal forced a last stand. **Salamis** was decisive: Themistocles lured the Persian fleet into the straits, where Greek triremes destroyed ~300 Persian ships. Xerxes went home. **Plataea** (479 BC) finished the land war — Mardonius killed, invasion over.
+
+The wars mattered less as military events than as economic ones: Greece went in poor and came out wealthy, with Persian treasure funding the Delian League, the Parthenon, and everything that followed.
+
+---
+
+## The Golden Age of Athens & the Delian League (478–431 BC)
+
+![The Parthenon](images/parthenon.jpg)
+*The Parthenon — built with Delian League tribute under Pericles, symbol of the Golden Age*
+
+![Acropolis Reconstruction](images/acropolis_reconstruction.jpg)
+*Reconstruction of the Acropolis at its Periclean height*
+
+After the Persian Wars, Athens turned the **Delian League** (478 BC) — a defensive alliance against Persia — into the **Athenian Empire**, funneling allied tribute into Periclean Athens. The same wealth and ambition that built the Parthenon and produced the Golden Age also made Athens overbearing, setting the stage for the Peloponnesian War. See details: [The Golden Age of Athens](golden_age_athens_detail.md)
+
+---
+
 ## Rat Utopia and the Peloponnesian War
 
 The Peloponnesian War (431–404 BC) was not really a war between Athens and Sparta — it was a symptom of societal breakdown caused by wealth. See details: [Rat Utopia](rat_utopia.md)
+
+![Ancient Sparta Ruins](images/sparta_ruins.jpg)
+*Ruins of ancient Sparta — the military state whose geography shaped its entire civilization*
 
 **Geography is destiny** shaped the two rivals completely:
 - *Sparta* (inland plains, agriculture): communal, conservative, isolationist. Its 10:1 helot-to-citizen ratio forced it to become a military police state. Like China throughout history, focused entirely on internal control.
 - *Athens* (hilly coast, harbor, olive oil, pottery): mercantile, expansionist, eudaimonia-driven. Trade forced Athens to send citizens outward to find markets, which made it naturally democratic and competitive.
 
+![Pericles Bust](images/pericles_bust.jpg)
+*Pericles — who transformed the Delian League into an Athenian empire and funded the Golden Age*
+
+![Pericles' Funeral Oration](images/pericles_funeral_oration.jpg)
+*Pericles delivering the Funeral Oration — the speech Euripides would later invert in The Bacchae*
+
 **Pericles** (461–429 BC) transformed Athens into an empire by converting the Delian League (a defensive alliance against Persia) into a tribute-paying empire. He gave democracy to the masses to outflank the upper nobility, funded the Parthenon with allied money, and exiled opponents who accused him of corruption. Athens grew enormously wealthy.
 
 **The war made no strategic sense from either side.** Athens could have freed Sparta's helots — one move that would have destroyed Sparta from within (10:1 ratio, constant rebellion fears). Sparta could have freed Athens' slaves. Neither did it, because destroying the internal social order mattered more than winning the war.
+
+![John B. Calhoun — Rat Utopia Experiment](images/calhoun_rat_utopia.jpg)
+*John B. Calhoun, behavioral researcher whose "Universe 25" rat experiment demonstrated societal collapse under abundance*
 
 **Rat Utopia** explains why. In James B. Calhoun's 1960s–70s experiments, rats placed in conditions of total abundance — unlimited food, no predators — did not thrive. Social rituals collapsed. Males became violent and stopped following mating customs. Gang rape replaced courtship. Mothers abandoned or attacked their own young. Eventually the entire colony died. The experiment was repeated many times with identical results.
 
@@ -57,11 +115,17 @@ Applied to Athens and Sparta: both were wealthy enough that the existing elite l
 
 ## Aeschylus, Sophocles, and Euripides on Democracy
 
+![Theatre of Dionysus, Athens](images/theater_dionysus.jpg)
+*The Theatre of Dionysus on the Acropolis — the world's first theatre, seating 10–15,000 citizens*
+
 Athens held the **Festival of Dionysus** twice a year (winter and summer). Theater was free to all citizens, decided by popular vote, and could draw 10–15,000 of Athens' ~50,000 citizens. Winning first place was the highest honor in Athenian life — equivalent to winning the Nobel Prize today. Wealthy aristocrats funded the productions to win popular favor.
 
 The three great playwrights were not mere entertainers. They were **prophets of democracy** — using Greek mythology to teach citizens why democracy exists, what threatens it, and how to protect it.
 
 ### Aeschylus — *The Oresteia* (458 BC)
+
+![Aeschylus Bust](images/aeschylus_bust.jpg)
+*Bust of Aeschylus, the father of tragedy — fought at Marathon (490 BC) and wrote the Oresteia*
 
 **Athens context**: written at the height of Athenian power, before the Peloponnesian War. Aeschylus himself fought at Marathon (490 BC).
 
@@ -73,11 +137,20 @@ The three great playwrights were not mere entertainers. They were **prophets of 
 
 ### Sophocles — *The Oedipus Trilogy* & *Antigone* (~441 BC)
 
+![Sophocles Bust](images/sophocles_bust.jpg)
+*Bust of Sophocles — wrote Oedipus Rex, Oedipus at Colonus, and Antigone during the height of Athenian democracy*
+
 **Athens context**: written during the height of Periclean democracy and the rising tensions before the Peloponnesian War.
+
+![Oedipus and the Sphinx](images/oedipus_sphinx.jpg)
+*Oedipus answering the Sphinx's riddle — "What walks on four legs in the morning, two at noon, three in the evening?"*
 
 **Oedipus Rex — Plot summary**: The king of Thebes and his queen receive a prophecy: their son will kill his father and marry his mother. They order the infant killed. A soldier leaves the baby exposed in the hills instead. A shepherd from Corinth finds the child and delivers him to the childless king and queen of Corinth, who name him **Oedipus**. Grown to manhood, Oedipus hears rumors he is adopted, consults the Oracle, and is told the same prophecy — he will kill his father and marry his mother. To escape his fate, he flees Corinth. On the road he quarrels with an old man and his guards, killing them all. That old man was the King of Thebes — his biological father. Arriving at Thebes, Oedipus defeats the Sphinx (who has been terrorizing the city) by answering her riddle: "What walks on four legs in the morning, two at noon, three in the evening?" Answer: man. The grateful city makes him king and he marries the widowed queen **Jocasta** — his biological mother. Twenty years later, a plague strikes Thebes. The oracle reveals the city is cursed because the king's murderer was never punished. Oedipus investigates. Piece by piece, the truth emerges. Jocasta hangs herself. Oedipus blinds himself and exiles himself to wander until he dies.
 
 **Oedipus at Colonus — Plot summary**: The blind, exiled Oedipus wanders with his daughter **Antigone**. He arrives at the sacred grove of Colonus near Athens, where the Oracle has said he will die and his burial place will protect whatever city holds it. His sons **Eteocles** and **Polynices** have been fighting over the Theban throne. Both want Oedipus's blessing to gain divine favor in the war. Oedipus curses both sons for abandoning him. He dies peacefully at Colonus and Athens gains his protection.
+
+![Antigone with dead Polynices](images/antigone_scene.jpg)
+*Nikiforos Lytras, "Antigone in front of the Dead Polynices" (1865) — defying Creon's order*
 
 **Antigone — Plot summary**: Eteocles and Polynices kill each other in battle. Their uncle **Creon** takes the throne and decrees that Eteocles (who defended the city) will receive a full state funeral, but Polynices (who attacked) will be left unburied — a terrible fate in Greek belief, condemning the soul to wander forever. Oedipus's daughter **Antigone** defies the order and secretly buries Polynices. Creon arrests her. She argues that divine law (the unwritten law of the gods requiring burial of the dead) overrides human law. Creon insists his authority must be absolute or all order collapses. He sentences her to death. Creon's son **Haemon** — Antigone's fiancé — pleads for her release, warning that all of Thebes sides with Antigone. Creon refuses. A prophet warns Creon the gods are angry. Creon changes his mind and rushes to release Antigone — but she has already hanged herself in her tomb. Haemon kills himself beside her. When Creon's wife **Eurydice** hears of her son's death, she kills herself too. Creon is left utterly alone.
 
@@ -86,6 +159,9 @@ The three great playwrights were not mere entertainers. They were **prophets of 
 ---
 
 ### Euripides — *The Trojan Women* (415 BC) & *The Bacchae* (405 BC, posthumous)
+
+![Euripides Bust](images/euripides_bust.jpg)
+*Portrait of Euripides — the most technically gifted playwright, who died in Macedonian exile, despised for challenging Athens*
 
 **Athens context**: *The Trojan Women* was performed in 415 BC — one year after Athens massacred the entire male population of Melos and enslaved the women and children for refusing to submit to Athenian empire. *The Bacchae* was written in Macedonian exile after Athens rejected Euripides.
 
@@ -109,6 +185,9 @@ Euripides was considered the most technically gifted of the three playwrights bu
 
 See full detail: [Socrates and Plato Detail](socrates_plato_detail.md)
 
+![The Death of Socrates — Jacques-Louis David (1787)](images/death_of_socrates.jpg)
+*Jacques-Louis David, "The Death of Socrates" (1787) — Socrates calmly reaching for the hemlock cup*
+
 **Socrates** spent his life in the Athenian Agora challenging everyone he met through the **Socratic dialogue** — a method of systematic questioning that exposes the logical flaws in any position. His premise: democracy requires citizens capable of reason, but most people are not. He demonstrated this daily by publicly embarrassing even Athens' most respected figures.
 
 Most Athenians saw him as a trickster and bully. Aristophanes' comedy *The Clouds* (423 BC) depicted him hanging from a basket worshipping clouds and teaching students to dodge debts — the popular image. His actual fans were anti-democratic aristocratic youth, including the future members of the Thirty Tyrants.
@@ -122,6 +201,9 @@ The people expected him to apologize and tell some jokes. Instead Socrates:
 3. Was sentenced to death, and then demanded to administer his own hemlock
 
 The lecturer argues this was **performance art**: Socrates, at 70 years old, had one final opportunity to prove his lifelong thesis — that democracy fails because the crowd cannot reason. By forcing them to kill him, he made the proof permanent.
+
+![Plato's Allegory of the Cave — Sanraedam (1604)](images/plato_allegory_cave.jpg)
+*Jan Pietersz Saenredam, engraving of Plato's Allegory of the Cave (1604) — the earliest major visual representation*
 
 **Plato's Allegory of the Cave** (from *The Republic*, ~375 BC) is the most powerful philosophical allegory in Western history. It accomplishes three things simultaneously:
 

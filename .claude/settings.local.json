@@ -1,0 +1,36 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:commons.wikimedia.org)",
+      "Bash(curl -L -A \"Mozilla/5.0\" -o \"/Users/vudang/Documents/Projects/PhilosophyGroup/PublicRead/HistoryAnalysis/010_Greek_DONE/images/hoplite_phalanx.jpg\" \"https://upload.wikimedia.org/wikipedia/commons/e/ed/Greek_Phalanx.jpg\")",
+      "Bash(curl -L -A \"Mozilla/5.0\" -o \"/Users/vudang/Documents/Projects/PhilosophyGroup/PublicRead/HistoryAnalysis/010_Greek_DONE/images/battle_thermopylae.jpg\" \"https://upload.wikimedia.org/wikipedia/commons/6/64/Leonidas_at_Thermopylae%2C_1814%2C_by_Jacques-Louis_David%2C_depicting_Sparta%27s_King_Leonidas_before_the_Battle_of_Thermopylae._%2811606613584%29.jpg\")",
+      "Bash(curl -L -A \"Mozilla/5.0\" -o \"/Users/vudang/Documents/Projects/PhilosophyGroup/PublicRead/HistoryAnalysis/010_Greek_DONE/images/battle_salamis.jpg\" \"https://upload.wikimedia.org/wikipedia/commons/9/9e/Kaulbach%2C_Wilhelm_von_-_Die_Seeschlacht_bei_Salamis_-_1868.JPG\")",
+      "WebFetch(domain:en.wikipedia.org)",
+      "Bash(curl -L -A \"Mozilla/5.0\" -o homer_bust.jpg \"https://upload.wikimedia.org/wikipedia/commons/2/24/Bust_Homer_BM_1825.jpg\" -w \"%{http_code} homer_bust\\\\n\" -s)",
+      "Bash(curl -L -A \"Mozilla/5.0\" -o trojan_war_iliad.jpg \"https://upload.wikimedia.org/wikipedia/commons/e/ec/Achilles%27_Sacrifice_of_Trojan_Prisoners.jpg\" -w \"%{http_code} trojan_war_iliad\\\\n\" -s)",
+      "Bash(curl -L -A \"Mozilla/5.0\" -o ancient_agora_polis.jpg \"https://upload.wikimedia.org/wikipedia/commons/a/a3/Ancient_Agora_of_Athens.jpg\" -w \"%{http_code} ancient_agora_polis\\\\n\" -s)",
+      "Bash(curl -L -A \"Mozilla/5.0\" -o phoenician_alphabet.svg \"https://upload.wikimedia.org/wikipedia/commons/2/24/Phoenician_alphabet.svg\" -w \"%{http_code} phoenician_alphabet\\\\n\" -s)",
+      "Bash(curl -L -A \"Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\) AppleWebKit/537.36\" -o /Users/vudang/Documents/Projects/PhilosophyGroup/PublicRead/HistoryAnalysis/010_Greek_DONE/images/euripides_bust.jpg \"https://upload.wikimedia.org/wikipedia/commons/d/d2/Portrait_of_Euripides%2C_Colosseum.jpg\" -w \"%{http_code} euripides_bust\\\\n\" -s)",
+      "Bash(curl -L -A \"Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\) AppleWebKit/537.36\" -o /Users/vudang/Documents/Projects/PhilosophyGroup/PublicRead/HistoryAnalysis/010_Greek_DONE/images/oedipus_sphinx.jpg \"https://upload.wikimedia.org/wikipedia/commons/4/42/Jean-Auguste-Dominique_Ingres_%281780-1867%29_-_Oedipus_and_the_Sphinx_-_NG3290_-_National_Gallery.jpg\" -w \"%{http_code} oedipus_sphinx\\\\n\" -s)",
+      "Bash(curl -L -A \"Mozilla/5.0\" -o /Users/vudang/Documents/Projects/PhilosophyGroup/PublicRead/HistoryAnalysis/010_Greek_DONE/images/euripides_bust.jpg \"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Portrait_of_Euripides%2C_Colosseum.jpg/440px-Portrait_of_Euripides%2C_Colosseum.jpg\" -w \"%{http_code} euripides_bust\\\\n\" -s)",
+      "Bash(curl -L -A \"Mozilla/5.0\" -o /Users/vudang/Documents/Projects/PhilosophyGroup/PublicRead/HistoryAnalysis/010_Greek_DONE/images/oedipus_sphinx.jpg \"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Jean-Auguste-Dominique_Ingres_%281780-1867%29_-_Oedipus_and_the_Sphinx_-_NG3290_-_National_Gallery.jpg/440px-Jean-Auguste-Dominique_Ingres_%281780-1867%29_-_Oedipus_and_the_Sphinx_-_NG3290_-_National_Gallery.jpg\" -w \"%{http_code} oedipus_sphinx\\\\n\" -s)",
+      "Bash(curl -L -A \"Mozilla/5.0\" -o /Users/vudang/Documents/Projects/PhilosophyGroup/PublicRead/HistoryAnalysis/010_Greek_DONE/images/euripides_bust.jpg \"https://upload.wikimedia.org/wikipedia/commons/2/2b/Euripides_Pio-Clementino_Inv302.jpg\" -w \"%{http_code} euripides_bust\\\\n\" -s)",
+      "Bash(curl -L -A \"Mozilla/5.0\" -o /Users/vudang/Documents/Projects/PhilosophyGroup/PublicRead/HistoryAnalysis/010_Greek_DONE/images/oedipus_sphinx.jpg \"https://upload.wikimedia.org/wikipedia/commons/1/10/Ingres_-_Oedipus_and_the_Sphinx_-_WGA11841.jpg\" -w \"%{http_code} oedipus_sphinx\\\\n\" -s)",
+      "Bash(curl -L -A \"Mozilla/5.0\" -o /Users/vudang/Documents/Projects/PhilosophyGroup/PublicRead/HistoryAnalysis/010_Greek_DONE/images/euripides_bust.jpg \"https://upload.wikimedia.org/wikipedia/commons/2/2b/Euripides_Pio-Clementino_Inv302.jpg\" -w \"%{http_code}\\\\n\" -s)",
+      "Bash(curl -L -A \"Mozilla/5.0\" -o /Users/vudang/Documents/Projects/PhilosophyGroup/PublicRead/HistoryAnalysis/010_Greek_DONE/images/oedipus_sphinx.jpg \"https://upload.wikimedia.org/wikipedia/commons/1/10/Ingres_-_Oedipus_and_the_Sphinx_-_WGA11841.jpg\" -w \"%{http_code}\\\\n\" -s)",
+      "Bash(sort -k9)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" \"https://upload.wikimedia.org/wikipedia/commons/1/14/Euripide.jpg\")",
+      "Bash(curl -s \"https://en.wikipedia.org/w/api.php?action=query&titles=Euripides&prop=pageimages&format=json&pithumbsize=400\")",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); pages=d['query']['pages']; [print\\(p.get\\('thumbnail',{}\\).get\\('source','none'\\)\\) for p in pages.values\\(\\)]\")",
+      "Bash(curl -s \"https://en.wikipedia.org/w/api.php?action=query&titles=Oedipus_Rex&prop=pageimages&format=json&pithumbsize=400\")",
+      "Bash(curl -L -A Mozilla/5.0 -o /Users/vudang/Documents/Projects/PhilosophyGroup/PublicRead/HistoryAnalysis/010_Greek_DONE/images/euripides_bust.jpg https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Euripide_%28cropped%29.jpg/500px-Euripide_%28cropped%29.jpg -w '%{http_code} %{size_download}\\\\n' -s)",
+      "Bash(curl -L -A Mozilla/5.0 -o /Users/vudang/Documents/Projects/PhilosophyGroup/PublicRead/HistoryAnalysis/010_Greek_DONE/images/oedipus_sphinx.jpg https://upload.wikimedia.org/wikipedia/commons/6/69/Oedipus.jpg -w '%{http_code} %{size_download}\\\\n' -s)",
+      "Bash(curl -L -A Mozilla/5.0 -o /Users/vudang/Documents/Projects/PhilosophyGroup/PublicRead/HistoryAnalysis/010_Greek_DONE/images/battle_marathon_phase2.svg https://upload.wikimedia.org/wikipedia/commons/5/5d/Second_phase_of_the_Battle_of_Marathon-the_Greeks_attack_and_the_lines_make_contact.svg -w '%{http_code} %{size_download}\\\\n' -s)",
+      "Bash(curl -s \"https://en.wikipedia.org/w/api.php?action=query&titles=Battle_of_Marathon&prop=images&format=json&imlimit=50\")",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 *)",
+      "Bash(curl *)",
+      "Bash(gh pr *)"
+    ]
+  }
+}
