@@ -2,13 +2,25 @@
 
 ## Homer và Sự Ra Đời Của Nền Văn Minh Hy Lạp
 
+![Tượng bán thân Homer](images/homer_bust.jpg)
+*Tượng bán thân đá cẩm thạch La Mã về Homer, Bảo tàng Anh (bản sao thế kỷ 2 CN từ nguyên bản Hy Lạp hóa)*
+
 Sự Sụp Đổ Thời Đại Đồng Thau (~1100 TCN) đã tạo ra một nghịch lý: những điều kiện cho sự vĩ đại của Hy Lạp. Sự hủy diệt Mycenae để lại Hy Lạp trong tình trạng phi tập trung, mù chữ và nghèo nàn — và ba thiếu hụt đó trở thành động cơ của đổi mới. (Xem: [Sự Sụp Đổ Thời Đại Đồng Thau](../000_BronzeAgeCollapse_DONE/readme_vi.md))
 
 Ba đổi mới xuất hiện từ sự hỗn loạn:
 
+![Agora Cổ Đại Athens](images/ancient_agora_polis.jpg)
+*Agora Cổ Đại Athens — trung tâm dân sự và thương mại của polis*
+
 **Polis** — Không có thẩm quyền tập trung, hàng nghìn thành bang nhỏ (~1.000 người mỗi) hình thành trên khắp Hy Lạp. Sự cạnh tranh giữa các polis thúc đẩy đổi mới không ngừng. Sự đa dạng địa lý (núi, đồng bằng, bờ biển) có nghĩa là mỗi polis phát triển nền văn hóa và nền kinh tế riêng biệt. Sự nghèo đói buộc sự tham gia quân sự rộng rãi, từ đó làm nảy sinh nền dân chủ: nếu bạn chiến đấu cho thành phố, bạn có quyền phát biểu.
 
+![Bảng Chữ Cái Phoenicia](images/phoenician_alphabet.svg)
+*Bảng chữ cái Phoenicia — tiền thân trực tiếp mà người Hy Lạp đã tiếp nhận và cải biến, giúp chữ viết trở nên phổ cập*
+
 **Bảng chữ cái** — Khi người Hy Lạp học lại chữ viết, họ áp dụng bảng chữ cái phụ âm Phoenicia thay vì xây dựng lại một hệ thống thư lại phức tạp. Không giống như ký tự biểu ý Trung Quốc, mà các thư lại chuyên nghiệp độc quyền như một công cụ quyền lực, bảng chữ cái đủ đơn giản để mọi người học. Điều này dân chủ hóa việc học chữ và pha trộn văn hóa truyền khẩu (cảm xúc, tưởng tượng, trí nhớ mạnh) với văn hóa chữ viết (logic, phản tư) — tạo ra một phương thức tư duy độc đáo mạnh mẽ.
+
+![Chiến Tranh Trojan — Cảnh Iliad](images/trojan_war_iliad.jpg)
+*Achilles hiến tế tù nhân Trojan tại lễ hỏa táng của Patroclus — một cảnh từ Iliad*
 
 **Homer** — *Iliad* và *Odyssey* của Homer đã phát minh ra văn học bằng cách làm ba điều chưa từng được làm trước đó: (1) chuyển góc nhìn để người Trojan xuất hiện anh hùng hơn người Hy Lạp, tạo ra sự đồng cảm; (2) giải thích tâm lý nhân vật — điều gì thúc đẩy Achilles; (3) sử dụng phép ẩn dụ như công cụ cho tư duy mới. Homer đặt một lý thuyết về nhân loại vào trung tâm văn hóa Hy Lạp: là con người là có sự đồng cảm, trí tưởng tượng và ý chí tư duy.
 
@@ -33,14 +45,57 @@ Hai mô hình này — thuyết phục qua lý trí/lời nói so với thuyết
 
 ---
 
+## Các Cuộc Chiến Tranh Ba Tư (499–479 TCN)
+
+Xem chi tiết đầy đủ: [Các Cuộc Chiến Tranh Ba Tư](persian_wars_vi.md)
+
+![Trận Marathon — Bao Vây Hai Cánh Của Hy Lạp](images/battle_marathon.jpg)
+*Bao vây hai cánh của Miltiades tại Marathon (490 TCN) — 10.000 hoplite đối 25.000 quân Ba Tư*
+
+![Đội Hình Phalanx Hoplite](images/hoplite_phalanx.jpg)
+*Đội hình phalanx hoplite đã chứng tỏ tính quyết định tại Marathon*
+
+![Trận Thermopylae](images/battle_thermopylae.jpg)
+*Thermopylae — 300 Spartans và 7.000 người Hy Lạp giữ đèo suốt hai ngày*
+
+![Trận Salamis](images/battle_salamis.jpg)
+*Salamis (480 TCN) — Themistocles dụ hạm đội Ba Tư vào eo biển và tiêu diệt ~300 tàu*
+
+Cuộc Nổi Dậy Ionia (499 TCN) đã kích hoạt hai cuộc xâm lược của Ba Tư. Athens đẩy lui cuộc xâm lược đầu tiên tại **Marathon** (490 TCN) — 10.000 hoplite chống 25.000 quân Ba Tư, thương vong ~192 so với ~5.000 — chứng minh phalanx hoplite vượt trội kỵ binh cung thủ Ba Tư. Cuộc xâm lược thứ hai dưới Xerxes (480 TCN) lớn hơn nhiều. **Thermopylae** tranh thủ thời gian: 300 Spartans và ~7.000 người Hy Lạp giữ một đèo ven biển hẹp suốt hai ngày trước khi bị phản bội và dẫn đến trận chiến cuối cùng. **Salamis** là trận quyết định: Themistocles dụ hạm đội Ba Tư vào eo biển, nơi các chiến hạm Hy Lạp tiêu diệt ~300 tàu Ba Tư. Xerxes về nước. **Plataea** (479 TCN) kết thúc chiến tranh trên bộ — Mardonius bị giết, cuộc xâm lược chấm dứt.
+
+Các cuộc chiến có ý nghĩa ít hơn như sự kiện quân sự mà quan trọng hơn như sự kiện kinh tế: Hy Lạp bước vào nghèo nàn và bước ra giàu có, với kho báu Ba Tư tài trợ cho Liên minh Delian, Parthenon và mọi thứ tiếp theo.
+
+---
+
+## Thời Đại Hoàng Kim Athens & Liên Minh Delian (478–431 TCN)
+
+![Parthenon](images/parthenon.jpg)
+*Parthenon — được xây bằng tiền cống nộp của Liên minh Delian dưới thời Pericles, biểu tượng của Thời Đại Hoàng Kim*
+
+![Phục Dựng Acropolis](images/acropolis_reconstruction.jpg)
+*Phục dựng Acropolis ở đỉnh cao thời Pericles*
+
+Sau Các Cuộc Chiến Tranh Ba Tư, Athens biến **Liên minh Delian** (478 TCN) — một liên minh phòng thủ chống Ba Tư — thành **Đế Chế Athens**, rút tiền cống nộp của các đồng minh vào Athens thời Pericles. Sự giàu có và tham vọng đã xây nên Parthenon và tạo ra Thời Đại Hoàng Kim cũng khiến Athens bá quyền, đặt nền móng cho Chiến Tranh Peloponnesus. Xem chi tiết: [Thời Đại Hoàng Kim Athens](golden_age_athens_detail_vi.md)
+
+---
+
 ## Thiên Đường Chuột và Chiến Tranh Peloponnesus
 
 Chiến Tranh Peloponnesus (431–404 TCN) không thực sự là cuộc chiến giữa Athens và Sparta — nó là triệu chứng của sự suy thoái xã hội do sự giàu có gây ra. Xem chi tiết: [Thiên Đường Chuột](rat_utopia_vi.md)
+
+![Phế Tích Sparta Cổ Đại](images/sparta_ruins.jpg)
+*Phế tích Sparta cổ đại — nhà nước quân sự mà địa lý của nó định hình toàn bộ nền văn minh*
 
 **Địa lý là số phận** đã định hình hoàn toàn hai đối thủ:
 
 - *Sparta* (đồng bằng nội địa, nông nghiệp): cộng đồng, bảo thủ, biệt lập. Tỷ lệ helot trên công dân 10:1 buộc nó phải trở thành một nhà nước cảnh sát quân sự. Giống như Trung Quốc trong suốt lịch sử, tập trung hoàn toàn vào kiểm soát nội bộ.
 - *Athens* (bờ biển đồi núi, cảng, dầu ô liu, gốm sứ): thương mại, bành trướng, hướng đến eudaimonia. Thương mại buộc Athens phải đưa công dân ra ngoài để tìm thị trường, điều này khiến nó tự nhiên là dân chủ và cạnh tranh.
+
+![Tượng Bán Thân Pericles](images/pericles_bust.jpg)
+*Pericles — người biến Liên minh Delian thành đế chế Athens và tài trợ Thời Đại Hoàng Kim*
+
+![Bài Điếu của Pericles](images/pericles_funeral_oration.jpg)
+*Pericles đọc Bài Điếu — bài diễn văn mà Euripides sau này sẽ đảo ngược trong The Bacchae*
 
 **Pericles** (461–429 TCN) biến Athens thành một đế chế bằng cách chuyển đổi Liên minh Delian (một liên minh phòng thủ chống Ba Tư) thành một đế chế nộp cống. Ông trao dân chủ cho quần chúng để vượt qua tầng lớp quý tộc cao, tài trợ Parthenon bằng tiền của các đồng minh, và lưu đày những người phản đối buộc tội ông tham nhũng. Athens trở nên cực kỳ giàu có.
 

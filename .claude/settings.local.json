@@ -29,7 +29,8 @@
       "Bash(curl -s \"https://en.wikipedia.org/w/api.php?action=query&titles=Battle_of_Marathon&prop=images&format=json&imlimit=50\")",
       "Bash(python3 -c ' *)",
       "Bash(python3 *)",
-      "Bash(curl *)"
+      "Bash(curl *)",
+      "Bash(gh pr *)"
     ]
   }
 }
