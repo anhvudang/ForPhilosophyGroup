@@ -30,7 +30,10 @@
       "Bash(python3 -c ' *)",
       "Bash(python3 *)",
       "Bash(curl *)",
-      "Bash(gh pr *)"
+      "Bash(gh pr *)",
+      "Bash(mkdir -p .claude/skills)",
+      "Bash(git mv *)",
+      "Bash(mv /Users/vudang/.claude/skills/organizing-topic-research .claude/skills/organizing-topic-research)"
     ]
   }
 }
