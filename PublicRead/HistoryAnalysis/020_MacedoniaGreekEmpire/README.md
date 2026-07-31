@@ -89,6 +89,20 @@ In 359 BC, Philip's brother died. His nephew was too young to rule, so Philip be
 | **Meritocracy** | Promoted talent regardless of birth; cavalry (nobles) made equal to infantry (commoners) | Created loyalty from talent, not class; Parmenion — lower nobility — rose to become Philip's partner-general |
 | **Companion Cavalry (Hetairoi)** | Organized into 8 territorial squadrons (~2,600 riders); armed with the xyston lance | The "hammer" in Anvil-and-Hammer; trained to charge the gap opened by the phalanx |
 
+**The units, in detail:**
+
+![Macedonian pezetairos phalanx infantryman](images/pezetairos_phalanx_infantry.jpg)
+
+*Pezetairos ("foot companion") — the ordinary Macedonian phalanx infantryman, armed with the sarissa pike and a small shield strapped to the forearm. This was the rank-and-file soldier who formed the "anvil." Wikimedia Commons, public domain.*
+
+![Macedonian hypaspist](images/hypaspist.jpg)
+
+*Hypaspist ("shield-bearer") — the elite infantry unit that flanked the phalanx, more lightly equipped and more mobile than the pezetairoi, able to respond fast when a sector of the line was threatened. Wikimedia Commons, public domain.*
+
+![Companions of Alexander the Great, Macedonian cavalry](images/companion_cavalry.jpg)
+
+*Hetairoi ("Companions") — the Companion Cavalry, drawn from Macedonian nobility and armed with the xyston lance, trained to charge in wedge formation. This was the "hammer" that delivered the decisive blow once the phalanx had pinned the enemy. Wikimedia Commons, public domain.*
+
 **The Anvil-and-Hammer in practice:**
 1. The phalanx advances and locks the enemy infantry in place (the anvil)
 2. While the enemy is pinned and cannot break formation without being speared, the Companion Cavalry streams around the exposed flank
@@ -353,3 +367,6 @@ The lectures use a **father-son analytical model** as their core interpretive le
 - `macedonian_phalanx_sarissa.png` — Macedonian phalanx with sarissa pike detail. Public domain.
 - `alexander_empire_map.png` — Map of Alexander's empire at greatest extent. Public domain.
 - `macedon_before_and_after.svg` — Macedon during the Peloponnesian War (c. 431 BC) vs. at the death of Philip II (336 BC). Wikimedia Commons, CC BY-SA 4.0.
+- `pezetairos_phalanx_infantry.jpg` — Macedonian pezetairos (phalanx infantryman) illustration. Wikimedia Commons, public domain.
+- `hypaspist.jpg` — Macedonian hypaspist (shield-bearer) illustration. Wikimedia Commons, public domain.
+- `companion_cavalry.jpg` — The Companions of Alexander the Great (Hetairoi cavalry) illustration. Wikimedia Commons, public domain.
