@@ -40,6 +40,9 @@ Macedonia sat to the **far north** — poor, weak, and divided. Its problems:
 
 No one took Macedonia seriously. That oversight would cost Greece its freedom.
 
+![Macedon during the Peloponnesian War (c. 431 BC) compared to Macedon at the death of Philip II (336 BC)](images/macedon_before_and_after.svg)
+*Left: Macedon around 431 BC, before Philip's reign — a small territory hemmed in by Illyria, Paeonia, Thessaly, and the Greek city-states. Right: Macedon at Philip's death in 336 BC, after he had built the army and diplomacy described below. The contrast is the whole point of this section — no one expected the kingdom on the left to become the kingdom on the right. Wikimedia Commons, CC BY-SA 4.0.*
+
 ---
 
 ## 2. Philip II — The Man Who Built Everything
@@ -102,6 +105,10 @@ Philip also **built loyalty through behavior**, not just systems:
 
 His men were fanatically loyal to him. This was the culture Alexander would inherit — and eventually destroy.
 
+**A note on the sarissa:** it was not a cavalry weapon or an elite-only tool — Philip issued it to the ordinary infantry phalangite, arming the *majority* of common soldiers with it rather than reserving it for a specialized unit. That is what made it transformative: it changed the baseline capability of every regular Macedonian foot soldier, not just a select few.
+
+**A note on meritocracy:** this went hand-in-hand with the sarissa reform. Philip promoted based on demonstrated battlefield performance rather than birth, most visibly by making the Companion Cavalry (drawn from nobility) formally equal in status to the phalanx infantry (drawn from commoners). This is the same principle he had observed in Thebes' Sacred Band — talent over birth — applied at the scale of an entire national army.
+
 [Read the full military innovations detail](details/philip-military-innovations.md)
 
 ---
@@ -111,7 +118,7 @@ His men were fanatically loyal to him. This was the culture Alexander would inhe
 Philip recognized that **diplomacy was as valuable as military power**. While building his army, he bought time through:
 
 - **Negotiating with enemies** rather than fighting wars he couldn't yet win
-- **Marrying foreign princesses** to seal alliances with neighboring powers
+- **Marrying foreign princesses** to seal alliances with neighboring powers — Philip took **seven wives** over his life (Audata of Illyria, Phila of Elimeia, Nicesipolis of Thessaly, Olympias of Epirus — Alexander's mother, Philinna of Larissa, Meda of Thrace, and finally Cleopatra Eurydice of Macedonia), each one tying Macedon to a different neighboring or rival power. Classical Greek city-states practiced monogamy; polygamy on this scale was associated with "barbarian" (non-Greek) royal custom, and Macedon's practice of it was one more mark, alongside its northern geography and mixed pedigree, of why Athens and Thebes did not consider Macedonians fully Greek
 - **Bribing the Athenian nobility** to neutralize opposition — the most vocal critic who could not be bought was Demosthenes, who gave his famous Philippic orations warning Athens about Philip
 
 **The Amphipolis campaign (357 BC)** was the turning point for resources. Philip seized this city (the lecture incorrectly dates this to "347") because it had gold mines. With steady gold income he could:
@@ -136,7 +143,11 @@ Philip brought ~30,000 infantry and 2,000 cavalry. The allied force numbered ~35
 2. While the Athenians rushed forward in disorder, **Alexander led the cavalry against the Theban Sacred Band** on the other flank
 3. All 300 members of the Sacred Band fought to the death rather than surrender — they were annihilated
 
-The irony was complete: the Sacred Band, whose tactics had taught Philip everything, was destroyed by what he had learned from them. Philip won Greece. He then formed the **League of Corinth (337 BC)** — a pan-Greek alliance under Macedonian hegemony, ostensibly to invade Persia together.
+The irony was complete: the Sacred Band, whose tactics had taught Philip everything, was destroyed by what he had learned from them. Casualties were lopsided — over 1,000 Athenians killed and 2,000 captured, comparable Theban losses, against low Macedonian casualties. Plutarch records that when Philip walked the battlefield afterward and recognized the Sacred Band's dead "heaped one upon another," he wept and declared: *"Perish any man who suspects that these men either did or suffered anything unseemly."* The Thebans later raised the **Lion of Chaeronea** monument over their mass grave; excavation in the 19th century uncovered 254 skeletons laid out in seven rows at the site, widely — though not universally — identified as the Sacred Band.
+
+**Historical significance:** the Athenian orator Lycurgus called it starkly: *"With the corpses of those who died here the freedom of the Greeks was also buried."* Historian George Cawkwell ranks Chaeronea among the most decisive battles in ancient history — after it, no Greek army remained capable of blocking Philip's advance. Thebes was punished harshly (exiled leaders, a Macedonian garrison installed, forced to pay for its own dead's burial); Athens was treated leniently, since Philip wanted its navy for the coming Persian war; Sparta alone refused to submit. The battle directly produced the **League of Corinth**, which bound Greek city-states never to make war on one another except to suppress revolution — ending independent inter-city warfare and subordinating Greek sovereignty to Macedonian-led collective structures for good.
+
+Philip won Greece. He then formed the League of Corinth (337 BC) — a pan-Greek alliance under Macedonian hegemony, ostensibly to invade Persia together.
 
 ---
 
@@ -328,6 +339,8 @@ The lectures use a **father-son analytical model** as their core interpretive le
 - Wikipedia, "Battle of Chaeronea (338 BC)" — [en.wikipedia.org/wiki/Battle_of_Chaeronea_(338_BC)](https://en.wikipedia.org/wiki/Battle_of_Chaeronea_(338_BC))
 - Wikipedia, "Battle of Gaugamela" — [en.wikipedia.org/wiki/Battle_of_Gaugamela](https://en.wikipedia.org/wiki/Battle_of_Gaugamela)
 - Wikipedia, "Sarissa" — [en.wikipedia.org/wiki/Sarissa](https://en.wikipedia.org/wiki/Sarissa)
+- Wikipedia, "Sacred Band of Thebes" — [en.wikipedia.org/wiki/Sacred_Band_of_Thebes](https://en.wikipedia.org/wiki/Sacred_Band_of_Thebes)
+- Wikipedia, "History of Macedonia (ancient kingdom)" — [en.wikipedia.org/wiki/History_of_Macedonia_(ancient_kingdom)](https://en.wikipedia.org/wiki/History_of_Macedonia_(ancient_kingdom))
 - University of Maryland (1998) — typhoid fever theory for Alexander's death
 
 **Image credits (all public domain / freely licensed via Wikimedia Commons):**
@@ -339,3 +352,4 @@ The lectures use a **father-son analytical model** as their core interpretive le
 - `macedonian_phalanx.png` — Macedonian phalanx formation diagram. Public domain.
 - `macedonian_phalanx_sarissa.png` — Macedonian phalanx with sarissa pike detail. Public domain.
 - `alexander_empire_map.png` — Map of Alexander's empire at greatest extent. Public domain.
+- `macedon_before_and_after.svg` — Macedon during the Peloponnesian War (c. 431 BC) vs. at the death of Philip II (336 BC). Wikimedia Commons, CC BY-SA 4.0.

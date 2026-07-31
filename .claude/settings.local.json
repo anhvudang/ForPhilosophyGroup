@@ -34,7 +34,9 @@
       "Bash(mkdir -p .claude/skills)",
       "Bash(git mv *)",
       "Bash(mv /Users/vudang/.claude/skills/organizing-topic-research .claude/skills/organizing-topic-research)",
-      "WebFetch(domain:www.britannica.com)"
+      "WebFetch(domain:www.britannica.com)",
+      "Bash(zsh -i -c 'echo \"=== exit: $? ===\"; for t in touch sed brew jenv rbenv starship direnv mise; do echo \"$t -> $\\(command -v $t 2>/dev/null || echo MISSING\\)\"; done' 2>&1)",
+      "Bash(PATH='/Users/vudang/Library/Application Support/Code/User/globalStorage/x:__TRACKED_VAR__' zsh -i -c 'echo \"exit=$?\"; command -v touch; command -v sed; command -v brew')"
     ]
   }
 }
