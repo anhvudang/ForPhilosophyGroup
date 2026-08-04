@@ -43,6 +43,10 @@ No one took Macedonia seriously. That oversight would cost Greece its freedom.
 ![Macedon during the Peloponnesian War (c. 431 BC) compared to Macedon at the death of Philip II (336 BC)](images/macedon_before_and_after.svg)
 *Left: Macedon around 431 BC, before Philip's reign — a small territory hemmed in by Illyria, Paeonia, Thessaly, and the Greek city-states. Right: Macedon at Philip's death in 336 BC, after he had built the army and diplomacy described below. The contrast is the whole point of this section — no one expected the kingdom on the left to become the kingdom on the right. Wikimedia Commons, CC BY-SA 4.0.*
 
+![Befor](images/greek_map_before_philip.png)
+
+![After](images/greek_map_before_Chaeronea.png)
+
 ---
 
 ## 2. Philip II — The Man Who Built Everything
@@ -73,6 +77,8 @@ At the time, almost no Greek army had these qualities. Athens used citizen-soldi
 ---
 
 ### 2.2 Philip's Military Innovations
+
+![Philip Millitary Innovations](images/philip_millitary_innovations.png)
 
 In 359 BC, Philip's brother died. His nephew was too young to rule, so Philip became regent — and within years, de facto king. The Macedonian army at this point was "getting destroyed by everyone." Philip set out to rebuild it entirely.
 
@@ -146,7 +152,7 @@ With resources, his diplomatic reach expanded. He slowly extended Macedonian inf
 
 ### 2.4 Battle of Chaeronea (338 BC)
 
-![Battle of Chaeronea tactical diagram — Philip vs. Athens and Thebes](images/battle_of_chaeronea.png)
+![Battle of Chaeronea tactical diagram — Philip vs. Athens and Thebes](images/battle_of_Chaeronea.png)
 *Battle of Chaeronea (338 BC) — tactical diagram showing Philip's forces vs. the allied Athenian-Theban army. Philip commanded the right; 18-year-old Alexander commanded the left cavalry. Public domain.*
 
 By 338 BC, the great Theban generals (Epaminondas and Pelopidas) were dead. Athens and Thebes formed a coalition, but Athens sent a weakened force.
