@@ -44,6 +44,8 @@ Bản đồng hành với [tổng quan Macedonia & Đế chế Hy Lạp](README_
 
 ## 2. Ba trận đánh: Rủi ro cực đoan, phần thưởng cực đoan
 
+![Battle Location](images/battleLocations.png)
+
 **Điểm chính:** Trong mỗi trận, Alexander đặt cả thân mình lẫn sự sống còn của toàn quân vào một ván cược duy nhất. Lần nào ván cược cũng thắng. Luận điểm của bài giảng là mẫu hình đó là một canh bạc, không phải chiến lược đúng đắn. Các nguồn sử cho bức tranh đầy đủ hơn: canh bạc ấy cũng là sự thực thi xuất sắc.
 
 ### Granicus (tháng 5/334 TCN) — lần tung xúc xắc đầu tiên

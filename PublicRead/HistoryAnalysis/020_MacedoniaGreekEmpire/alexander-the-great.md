@@ -44,6 +44,8 @@ Companion to the broader [Macedonia & the Greek Empire overview](README.md). Pri
 
 ## 2. The Three Battles: Extreme Risk, Extreme Reward
 
+![Battle Location](images/battleLocations.png)
+
 **Takeaway:** In each battle Alexander put his own body, and the whole army's survival, on a single bet. Each time the bet paid. The lecture's point is that the pattern was a gamble, not sound strategy. The sources give the full picture: the gamble was also brilliant execution.
 
 ### Granicus (May 334 BC) — the gambler's first throw
