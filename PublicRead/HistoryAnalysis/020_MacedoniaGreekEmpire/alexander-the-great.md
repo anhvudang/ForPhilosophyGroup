@@ -48,11 +48,16 @@ Companion to the broader [Macedonia & the Greek Empire overview](README.md). Pri
 
 ### Granicus (May 334 BC) — the gambler's first throw
 
+![Battle Formation](images/battleOfGranicus.png)
+
+- **Number** Persian: 20000 infantry and 20000 cavalry; Alexander 12000 heavy infantry, 6000 light infantry, 4500 heavy cavalry, 1000 light cavalry
 - **Risk:** He attacked across a river against a prepared Persian line, at the front of his cavalry, instead of waiting or manoeuvring (Parmenion is reported to have advised delay).
 - **Near-death:** A Persian noble struck him down in the melee; **Cleitus the Black** cut off the attacker's arm at the last moment.
 - **Reward:** The Persian satraps were routed and Asia Minor opened. Lecture framing: "He won, but barely."
 
 ### Issus (Nov 333 BC) — the charge at the king
+
+![Battle Formation](images/battleOfIssus.png)
 
 - **Setup:** Darius III came in person, with Alexander outnumbered on ground where the Persians could use their size.
 - **Risk:** Alexander drove his Companion cavalry straight at Darius in the Persian centre. The left, under **Parmenion**, had to hold against the far larger Persian force. If it broke, there was no line of retreat.
@@ -63,7 +68,9 @@ Companion to the broader [Macedonia & the Greek Empire overview](README.md). Pri
 
 ### Gaugamela (1 Oct 331 BC) — the pattern at full scale
 
-- **Numbers:** Roughly 47,000 Macedonians and allies against a Persian army modern scholars put at ~50,000–120,000 or more (ancient sources claim up to 1,000,000; treated as absurd), plus scythed chariots and elephants.
+![Battle Formation](images/battleOfGaugamela.png)
+
+- **Numbers:** Roughly 47,000 Macedonians and allies against a Persian army modern scholars put at 120,000 or more (ancient sources claim up to 1,000,000; treated as absurd), plus scythed chariots and elephants.
 - **Risk:** A Persian line extending more than a mile past his own. His left under Parmenion was encircled and sent desperate requests for help; a gap opened in his own line. The Persians had levelled the ground for chariots, and Alexander deliberately drew the cavalry away from it.
 - **Reward:** When a gap opened in Darius's line, Alexander formed a wedge of Companions and infantry, drove it into the centre, and Darius turned and fled again. The Persian army dissolved. Darius was murdered by Bessus the following year.
 
