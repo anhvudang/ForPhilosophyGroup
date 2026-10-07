@@ -1,5 +1,7 @@
 # 3. Plato và Aristotle: hai nhánh chưa bao giờ hòa giải
 
+*English version: [03_plato-and-aristotle.md](03_plato-and-aristotle.md)*
+
 ← [Về README buổi 14](README_vi.md)
 
 ---
@@ -127,3 +129,4 @@ Một ứng dụng cụ thể: hình "Lễ" ở [file 05](05_su-dep-nghia-le-su-
 - [02 — Rhetoric và Dialectic](02_rhetoric-va-dialectic_vi.md)
 - [05 — Sự Đẹp → Nghĩa → Lễ](05_su-dep-nghia-le-su-so_vi.md)
 - [Socrates & Plato (chi tiết)](../../../010_Greek_DONE/socrates_plato_detail_vi.md)
+- [Aristotle](../../aristotle_vi.md) — bản lịch sử đã kiểm chứng.

@@ -347,6 +347,14 @@ The lectures use a **father-son analytical model** as their core interpretive le
 
 ---
 
+## Talk Summaries
+
+Analyses of the group's live sessions on this period. These record what was said — including speculation, open arguments and claims that did not survive fact-checking — and are kept separate from the verified narrative above.
+
+- [Talk 14 — Macedonia, the Hellenistic Period, and Beauty / Fear](TalkSummaries/14th/README.md)
+
+---
+
 ## Sources
 
 **Primary source material:**

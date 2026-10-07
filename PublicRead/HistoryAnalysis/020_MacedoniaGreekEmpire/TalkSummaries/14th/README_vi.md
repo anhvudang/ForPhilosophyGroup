@@ -1,5 +1,7 @@
 # Buổi 14 — Macedonia, Thời Kỳ Hy Lạp Hóa, và Sự Đẹp / Sự Sợ
 
+*English version: [README.md](README.md)*
+
 **Nguồn:** `Private/Transcripts/14th/` (phi1.csv, phi2.csv, phi3.csv) — bản ghi tự động, chỉ đọc cột tiếng Việt.
 **Người nói chính:** Vũ. **Người phản biện chính:** chị Nhật. Có sự tham gia hỏi/phản biện của Thái, Tứ, Huy, Thu và nhiều người khác.
 **Chủ đề công bố:** Macedonia và thời kỳ Hy Lạp hóa (Hellenistic), Aristotle, và phần tự do về "sự đẹp — sự sợ".
@@ -77,7 +79,7 @@ Mười ý dưới đây là những ý đứng được một mình — mang ra
 
 ## 4. Liên kết trong repo
 
-- [Macedonia & the Greek Empire](../../README.md) — phần lịch sử tương ứng, chi tiết hơn và đã kiểm chứng.
+- [Macedonia & Đế Chế Hy Lạp](../../README_vi.md) — phần lịch sử tương ứng, chi tiết hơn và đã kiểm chứng.
 - [Văn Minh Hy Lạp](../../../010_Greek_DONE/readme_vi.md) — arete, eudaimonia, hai con đường thuyết phục (Odysseus / Achilles).
 - [Socrates & Plato](../../../010_Greek_DONE/socrates_plato_detail_vi.md)
 - [Ideas_TODO/Quality_SựĐẹp.md](../../../../Ideas_TODO/Quality_SựĐẹp.md) — placeholder đang trống; file [05](05_su-dep-nghia-le-su-so_vi.md) là vật liệu để lấp nó.

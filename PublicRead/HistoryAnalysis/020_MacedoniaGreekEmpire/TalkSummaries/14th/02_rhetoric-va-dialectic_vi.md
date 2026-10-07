@@ -1,5 +1,7 @@
 # 2. Rhetoric và Dialectic: cùng một công cụ, hai hướng dùng
 
+*English version: [02_rhetoric-and-dialectic.md](02_rhetoric-and-dialectic.md)*
+
 ← [Về README buổi 14](README_vi.md)
 
 ---

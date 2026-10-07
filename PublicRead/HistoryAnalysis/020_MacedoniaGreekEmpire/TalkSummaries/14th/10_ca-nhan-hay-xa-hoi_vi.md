@@ -1,5 +1,7 @@
 # 10. Cá nhân hay xã hội: cuộc tranh luận chưa ngã ngũ
 
+*English version: [10_individual-or-society.md](10_individual-or-society.md)*
+
 ← [Về README buổi 14](README_vi.md)
 
 ---

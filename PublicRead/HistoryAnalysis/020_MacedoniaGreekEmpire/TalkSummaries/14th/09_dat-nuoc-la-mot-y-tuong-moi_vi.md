@@ -1,5 +1,7 @@
 # 9. "Đất nước" là một ý tưởng rất mới
 
+*English version: [09_the-nation-is-a-recent-idea.md](09_the-nation-is-a-recent-idea.md)*
+
 ← [Về README buổi 14](README_vi.md)
 
 ---

@@ -1,5 +1,7 @@
 # 4. Tính chính thống được chế tạo, không được tìm thấy
 
+*English version: [04_legitimacy-is-manufactured.md](04_legitimacy-is-manufactured.md)*
+
 ← [Về README buổi 14](README_vi.md)
 
 ---

@@ -1,5 +1,7 @@
 # 6. Công thức và trí tuệ: tại sao sách nấu ăn không giải thích lý do
 
+*English version: [06_recipes-and-wisdom.md](06_recipes-and-wisdom.md)*
+
 ← [Về README buổi 14](README_vi.md)
 
 ---

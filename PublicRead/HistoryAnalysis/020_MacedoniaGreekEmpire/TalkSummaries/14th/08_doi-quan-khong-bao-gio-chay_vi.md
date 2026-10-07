@@ -1,5 +1,7 @@
 # 8. Vì sao đội quân nhỏ hay thắng đội quân lớn
 
+*English version: [08_the-wing-that-never-ran.md](08_the-wing-that-never-ran.md)*
+
 ← [Về README buổi 14](README_vi.md)
 
 ---
@@ -142,4 +144,6 @@ Hệ quả thực hành: thứ cần bảo vệ trong một tổ chức dưới 
 - [04 — Tính chính thống được chế tạo](04_tinh-chinh-thong-duoc-che-tao_vi.md): mọi con số trong file này đều đi qua bộ lọc của bên thắng.
 - [07 — Cai trị qua nhóm elite](07_cai-tri-qua-nhom-elite_vi.md): cùng một logic chi phí — đánh vào điểm quyết định, không đánh vào toàn khối.
 - [05 — Sự Đẹp → Nghĩa → Lễ](05_su-dep-nghia-le-su-so_vi.md): hành vi risk-taking của Alexander không giải thích được bằng tính toán.
-- [Macedonia & the Greek Empire](../../README.md) — chi tiết ba trận chiến đã kiểm chứng.
+- [Macedonia & Đế Chế Hy Lạp](../../README_vi.md) — chi tiết ba trận chiến đã kiểm chứng.
+- [Alexander Đại Đế](../../alexander-the-great_vi.md) — ba trận chiến, chi tiết hơn.
+- [Những Cải Cách Quân Sự Của Philip](../../details/philip-military-innovations_vi.md) — nguồn gốc của đội quân đó.

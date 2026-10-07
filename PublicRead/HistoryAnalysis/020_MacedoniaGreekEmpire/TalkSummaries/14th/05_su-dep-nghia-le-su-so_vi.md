@@ -1,5 +1,7 @@
 # 5. Sự Đẹp → Nghĩa → Lễ, và Sự Sợ
 
+*English version: [05_beauty-meaning-ritual-fear.md](05_beauty-meaning-ritual-fear.md)*
+
 ← [Về README buổi 14](README_vi.md)
 
 > Đây là ý nguyên bản của buổi — không phải tóm tắt lịch sử mà là mô hình Vũ tự xây. Nó cũng là phần bị phản biện nặng nhất, và chưa hoàn thiện. Vũ tự nói ở cuối: *"em vẫn chưa thực sự hiểu idea này, nó chỉ là cái cách diễn đạt tốt nhất của em có vào thời điểm hiện tại."*
