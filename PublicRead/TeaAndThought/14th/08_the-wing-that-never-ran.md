@@ -144,6 +144,6 @@ Practical consequence: what needs protecting in an organization under pressure i
 - [04 — Legitimacy is manufactured](04_legitimacy-is-manufactured.md): every number in this file passed through the winner's filter.
 - [07 — Ruling through the elite](07_ruling-through-the-elite.md): the same cost logic — strike the decisive point, not the whole mass.
 - [05 — Beauty → Meaning → Ritual](05_beauty-meaning-ritual-fear.md): Alexander's risk-taking is not explicable by calculation.
-- [Macedonia & the Greek Empire](../../README.md) — the fact-checked account of the three battles.
-- [Alexander the Great](../../alexander-the-great.md) — fuller detail.
-- [Philip's Military Innovations](../../details/philip-military-innovations.md) — where that army came from.
+- [Macedonia & the Greek Empire](../../HistoryAnalysis/020_MacedoniaGreekEmpire/README.md) — the fact-checked account of the three battles.
+- [Alexander the Great](../../HistoryAnalysis/020_MacedoniaGreekEmpire/alexander-the-great.md) — fuller detail.
+- [Philip's Military Innovations](../../HistoryAnalysis/020_MacedoniaGreekEmpire/details/philip-military-innovations.md) — where that army came from.

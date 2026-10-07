@@ -132,4 +132,4 @@ Và quan trọng hơn: ý này không cho phép ta tự miễn trừ. Nếu *"v�
 - [01 — Hệ thống hóa là động cơ lan truyền](01_he-thong-hoa-la-dong-co-lan-truyen_vi.md): Thư viện Alexandria nằm ở giao của hai ý.
 - [02 — Rhetoric và Dialectic](02_rhetoric-va-dialectic_vi.md): "thuê một nhà thơ" là rhetoric ở quy mô nhà nước.
 - [07 — Cai trị qua nhóm elite](07_cai-tri-qua-nhom-elite_vi.md): tuyên truyền nhắm vào ai.
-- [Ideas_TODO/Facts-Stories-OverexaggerateStories.md](../../../../Ideas_TODO/Facts-Stories-OverexaggerateStories.md) — placeholder đang trống; file này là vật liệu trực tiếp cho nó.
+- [Ideas_TODO/Facts-Stories-OverexaggerateStories.md](../../Ideas_TODO/Facts-Stories-OverexaggerateStories.md) — placeholder đang trống; file này là vật liệu trực tiếp cho nó.

@@ -108,5 +108,5 @@ Ngoài ra: Lyceum do Aristotle lập ở Athens **sau** khi Alexander đã lên 
 - [02 — Rhetoric và Dialectic](02_rhetoric-va-dialectic_vi.md): thứ bậc mà Aristotle áp lên hai công cụ này chính là một ví dụ cụ thể của việc hệ thống hóa.
 - [04 — Tính chính thống được chế tạo](04_tinh-chinh-thong-duoc-che-tao_vi.md): Thư viện Alexandria vừa là máy hệ thống hóa, vừa là máy tạo chính thống.
 - [05 — Sự Đẹp → Nghĩa → Lễ](05_su-dep-nghia-le-su-so_vi.md): "đóng hộp làm mất khả năng phát triển" ở đây là cùng một cơ chế với "Lễ copy được, Nghĩa không copy được".
-- [Macedonia & Đế Chế Hy Lạp](../../README_vi.md)
-- [Aristotle](../../aristotle_vi.md) — bản lịch sử đã kiểm chứng về Aristotle và Lyceum.
+- [Macedonia & Đế Chế Hy Lạp](../../HistoryAnalysis/020_MacedoniaGreekEmpire/README_vi.md)
+- [Aristotle](../../HistoryAnalysis/020_MacedoniaGreekEmpire/aristotle_vi.md) — bản lịch sử đã kiểm chứng về Aristotle và Lyceum.

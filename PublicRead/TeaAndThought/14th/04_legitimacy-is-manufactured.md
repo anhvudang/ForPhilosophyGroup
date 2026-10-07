@@ -132,4 +132,4 @@ And more importantly: this idea does not let you exempt yourself. If *"in essenc
 - [01 — Systematization is the engine of spread](01_systematization-as-engine.md): the Library of Alexandria sits at the intersection of the two ideas.
 - [02 — Rhetoric and dialectic](02_rhetoric-and-dialectic.md): "hire a poet" is rhetoric at state scale.
 - [07 — Ruling through the elite](07_ruling-through-the-elite.md): who propaganda is aimed at.
-- [Ideas_TODO/Facts-Stories-OverexaggerateStories.md](../../../../Ideas_TODO/Facts-Stories-OverexaggerateStories.md) — an empty placeholder; this file is direct material for it.
+- [Ideas_TODO/Facts-Stories-OverexaggerateStories.md](../../Ideas_TODO/Facts-Stories-OverexaggerateStories.md) — an empty placeholder; this file is direct material for it.

@@ -128,4 +128,4 @@ Vì nó tách hai thứ hay bị gộp: **chiếm quyền lực** và **chiếm 
 - [04 — Tính chính thống được chế tạo](04_tinh-chinh-thong-duoc-che-tao_vi.md)
 - [09 — "Đất nước" là một ý tưởng rất mới](09_dat-nuoc-la-mot-y-tuong-moi_vi.md): giải thích tại sao người dân không chống.
 - [01 — Hệ thống hóa là động cơ lan truyền](01_he-thong-hoa-la-dong-co-lan-truyen_vi.md)
-- [Macedonia & Đế Chế Hy Lạp](../../README_vi.md)
+- [Macedonia & Đế Chế Hy Lạp](../../HistoryAnalysis/020_MacedoniaGreekEmpire/README_vi.md)

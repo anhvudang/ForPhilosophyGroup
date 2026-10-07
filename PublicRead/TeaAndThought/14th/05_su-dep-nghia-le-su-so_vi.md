@@ -238,7 +238,7 @@ Vũ trả lời: *"em hiểu."* Và tự nhận là mình đang làm điều ng�
 1. Định nghĩa Sự Đẹp bằng cách nó **không** là gì, thay vì bằng các từ đồng nghĩa.
 2. Tách Sự Sợ thành hai khái niệm riêng (cơ chế vs tín hiệu) để hết tự mâu thuẫn.
 3. Hoặc là bỏ hẳn tầng xã hội, hoặc là tìm một tiêu chí kiểm chứng cho nó. Hiện tại nó là phần yếu nhất và là phần bị tấn công nhiều nhất.
-4. Đọc Nietzsche. Cả Vũ và chị Nhật đều nhận ra sự trùng khớp trong buổi — *"chào mừng đến tới với tư duy của Nietzsche"* — và Vũ đồng ý: *"nó khá là giống, tại vì Nietzsche và Greek... họ đều nhìn thấy cái phần này, chỉ là cách diễn giải của họ rất khác nhau."* Trong repo đã có [Nietzsche/Analysis](../../../../Nietzsche/Analysis/analysis.md).
+4. Đọc Nietzsche. Cả Vũ và chị Nhật đều nhận ra sự trùng khớp trong buổi — *"chào mừng đến tới với tư duy của Nietzsche"* — và Vũ đồng ý: *"nó khá là giống, tại vì Nietzsche và Greek... họ đều nhìn thấy cái phần này, chỉ là cách diễn giải của họ rất khác nhau."* Trong repo đã có [Nietzsche/Analysis](../../Nietzsche/Analysis/analysis.md).
 
 ---
 
@@ -248,6 +248,6 @@ Vũ trả lời: *"em hiểu."* Và tự nhận là mình đang làm điều ng�
 - [10 — Cá nhân hay xã hội](10_ca-nhan-hay-xa-hoi_vi.md): toàn bộ cuộc tranh luận với chị Nhật.
 - [02 — Rhetoric và Dialectic](02_rhetoric-va-dialectic_vi.md): hai công cụ bị tuyển dụng để bảo vệ Lễ.
 - [01 — Hệ thống hóa là động cơ lan truyền](01_he-thong-hoa-la-dong-co-lan-truyen_vi.md): "đóng hộp làm mất khả năng phát triển" là cùng một cơ chế với Nghĩa mất / Lễ còn.
-- [Ideas_TODO/Quality_SựĐẹp.md](../../../../Ideas_TODO/Quality_SựĐẹp.md) — placeholder đang trống; file này là vật liệu để lấp nó.
-- [Nietzsche/Analysis](../../../../Nietzsche/Analysis/analysis.md)
-- [Văn Minh Hy Lạp — arete và eudaimonia](../../../010_Greek_DONE/readme_vi.md)
+- [Ideas_TODO/Quality_SựĐẹp.md](../../Ideas_TODO/Quality_SựĐẹp.md) — placeholder đang trống; file này là vật liệu để lấp nó.
+- [Nietzsche/Analysis](../../Nietzsche/Analysis/analysis.md)
+- [Văn Minh Hy Lạp — arete và eudaimonia](../../HistoryAnalysis/010_Greek_DONE/readme_vi.md)

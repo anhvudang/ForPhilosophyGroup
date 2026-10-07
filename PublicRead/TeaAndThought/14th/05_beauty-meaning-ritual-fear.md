@@ -258,7 +258,7 @@ This is an admission that he is doing **rhetoric**, not **dialectic** — by exa
 1. Define Beauty by what it is **not**, rather than by synonyms.
 2. Split Fear into two separate concepts (mechanism vs diagnostic signal) to clear the self-contradiction.
 3. Either drop the social layer entirely, or find a test criterion for it. It is currently the weakest part and the most attacked.
-4. Read Nietzsche. Both Vũ and Nhật noticed the overlap during the talk — *"welcome to Nietzsche's thinking"* — and Vũ agreed: *"it's fairly similar, because Nietzsche and the Greeks... they all saw this part, it's just that their interpretations are very different."* The repo already has [Nietzsche/Analysis](../../../../Nietzsche/Analysis/analysis.md).
+4. Read Nietzsche. Both Vũ and Nhật noticed the overlap during the talk — *"welcome to Nietzsche's thinking"* — and Vũ agreed: *"it's fairly similar, because Nietzsche and the Greeks... they all saw this part, it's just that their interpretations are very different."* The repo already has [Nietzsche/Analysis](../../Nietzsche/Analysis/analysis.md).
 
 ---
 
@@ -268,6 +268,6 @@ This is an admission that he is doing **rhetoric**, not **dialectic** — by exa
 - [10 — Individual or society](10_individual-or-society.md): the full argument with Nhật.
 - [02 — Rhetoric and dialectic](02_rhetoric-and-dialectic.md): the two tools conscripted to defend Ritual.
 - [01 — Systematization is the engine of spread](01_systematization-as-engine.md): "boxing it up kills growth" is the same mechanism as Meaning lost / Ritual kept.
-- [Ideas_TODO/Quality_SựĐẹp.md](../../../../Ideas_TODO/Quality_SựĐẹp.md) — an empty placeholder; this file is the material for filling it.
-- [Nietzsche/Analysis](../../../../Nietzsche/Analysis/analysis.md)
-- [Greek Civilization — arete and eudaimonia](../../../010_Greek_DONE/readme.md)
+- [Ideas_TODO/Quality_SựĐẹp.md](../../Ideas_TODO/Quality_SựĐẹp.md) — an empty placeholder; this file is the material for filling it.
+- [Nietzsche/Analysis](../../Nietzsche/Analysis/analysis.md)
+- [Greek Civilization — arete and eudaimonia](../../HistoryAnalysis/010_Greek_DONE/readme.md)

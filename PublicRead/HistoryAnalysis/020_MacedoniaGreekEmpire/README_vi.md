@@ -351,7 +351,7 @@ Các bài giảng sử dụng một **mô hình phân tích cha-con** làm lăng
 
 Phân tích các buổi nói trực tiếp của nhóm về thời kỳ này. Chúng ghi lại những gì đã được nói — bao gồm cả suy đoán, tranh luận chưa ngã ngũ, và những phát biểu không qua được kiểm chứng — và được giữ tách biệt với phần tường thuật đã kiểm chứng ở trên.
 
-- [Buổi 14 — Macedonia, Thời Kỳ Hy Lạp Hóa, và Sự Đẹp / Sự Sợ](TalkSummaries/14th/README_vi.md)
+- [Buổi 14 — Macedonia, Thời Kỳ Hy Lạp Hóa, và Sự Đẹp / Sự Sợ](../../TeaAndThought/14th/README_vi.md)
 
 ---
 

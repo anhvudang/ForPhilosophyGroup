@@ -128,5 +128,5 @@ Một ứng dụng cụ thể: hình "Lễ" ở [file 05](05_su-dep-nghia-le-su-
 - [01 — Hệ thống hóa là động cơ lan truyền](01_he-thong-hoa-la-dong-co-lan-truyen_vi.md)
 - [02 — Rhetoric và Dialectic](02_rhetoric-va-dialectic_vi.md)
 - [05 — Sự Đẹp → Nghĩa → Lễ](05_su-dep-nghia-le-su-so_vi.md)
-- [Socrates & Plato (chi tiết)](../../../010_Greek_DONE/socrates_plato_detail_vi.md)
-- [Aristotle](../../aristotle_vi.md) — bản lịch sử đã kiểm chứng.
+- [Socrates & Plato (chi tiết)](../../HistoryAnalysis/010_Greek_DONE/socrates_plato_detail_vi.md)
+- [Aristotle](../../HistoryAnalysis/020_MacedoniaGreekEmpire/aristotle_vi.md) — bản lịch sử đã kiểm chứng.

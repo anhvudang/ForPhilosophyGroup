@@ -23,7 +23,7 @@ Vũ mở đầu phần này bằng một quan sát gọn: ở Hy Lạp trước 
 
 Và hai anh hùng lớn nhất của Hy Lạp đại diện đúng cho hai thứ đó: **Achilles** là nghệ thuật bạo lực, **Odysseus** là nghệ thuật hùng biện. *"Đó gần như là 2 cái anh hùng lớn nhất của Hy Lạp."*
 
-> Cặp đối lập này đã có trong [Văn Minh Hy Lạp](../../../010_Greek_DONE/readme_vi.md) ("hai con đường thuyết phục"). Buổi 14 thêm vào phần theo dõi xem con đường Odysseus **biến chất** như thế nào.
+> Cặp đối lập này đã có trong [Văn Minh Hy Lạp](../../HistoryAnalysis/010_Greek_DONE/readme_vi.md) ("hai con đường thuyết phục"). Buổi 14 thêm vào phần theo dõi xem con đường Odysseus **biến chất** như thế nào.
 
 ### Rhetoric là gì, và nó vận hành bằng gì
 
@@ -119,4 +119,4 @@ Và cái đáng sợ là chính người nói thường không biết. Vũ tự 
 - [04 — Tính chính thống được chế tạo](04_tinh-chinh-thong-duoc-che-tao_vi.md): "thuê một nhà thơ viết một bài thật hay rồi tuyên truyền" — rhetoric ở dạng công nghiệp.
 - [05 — Sự Đẹp → Nghĩa → Lễ](05_su-dep-nghia-le-su-so_vi.md): điều kiện "thành thật với bản thân" xuất hiện lại ở đây.
 - [10 — Cá nhân hay xã hội](10_ca-nhan-hay-xa-hoi_vi.md): cuộc tranh luận với chị Nhật là một mẫu sống để kiểm tra cả hai công cụ.
-- [Socrates & Plato](../../../010_Greek_DONE/socrates_plato_detail_vi.md)
+- [Socrates & Plato](../../HistoryAnalysis/010_Greek_DONE/socrates_plato_detail_vi.md)

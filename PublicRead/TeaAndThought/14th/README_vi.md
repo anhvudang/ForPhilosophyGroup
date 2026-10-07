@@ -79,8 +79,8 @@ Mười ý dưới đây là những ý đứng được một mình — mang ra
 
 ## 4. Liên kết trong repo
 
-- [Macedonia & Đế Chế Hy Lạp](../../README_vi.md) — phần lịch sử tương ứng, chi tiết hơn và đã kiểm chứng.
-- [Văn Minh Hy Lạp](../../../010_Greek_DONE/readme_vi.md) — arete, eudaimonia, hai con đường thuyết phục (Odysseus / Achilles).
-- [Socrates & Plato](../../../010_Greek_DONE/socrates_plato_detail_vi.md)
-- [Ideas_TODO/Quality_SựĐẹp.md](../../../../Ideas_TODO/Quality_SựĐẹp.md) — placeholder đang trống; file [05](05_su-dep-nghia-le-su-so_vi.md) là vật liệu để lấp nó.
-- [Nietzsche/Analysis](../../../../Nietzsche/Analysis/analysis.md) — Vũ tự nhận mô hình của mình gần Nietzsche; chị Nhật cũng chỉ ra điều đó trong buổi ("chào mừng đến với tư duy của Nietzsche").
+- [Macedonia & Đế Chế Hy Lạp](../../HistoryAnalysis/020_MacedoniaGreekEmpire/README_vi.md) — phần lịch sử tương ứng, chi tiết hơn và đã kiểm chứng.
+- [Văn Minh Hy Lạp](../../HistoryAnalysis/010_Greek_DONE/readme_vi.md) — arete, eudaimonia, hai con đường thuyết phục (Odysseus / Achilles).
+- [Socrates & Plato](../../HistoryAnalysis/010_Greek_DONE/socrates_plato_detail_vi.md)
+- [Ideas_TODO/Quality_SựĐẹp.md](../../Ideas_TODO/Quality_SựĐẹp.md) — placeholder đang trống; file [05](05_su-dep-nghia-le-su-so_vi.md) là vật liệu để lấp nó.
+- [Nietzsche/Analysis](../../Nietzsche/Analysis/analysis.md) — Vũ tự nhận mô hình của mình gần Nietzsche; chị Nhật cũng chỉ ra điều đó trong buổi ("chào mừng đến với tư duy của Nietzsche").

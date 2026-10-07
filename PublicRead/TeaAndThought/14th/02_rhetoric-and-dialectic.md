@@ -23,7 +23,7 @@ Vũ opened this section with a compact observation: in Greece before Macedon, a 
 
 And the two greatest Greek heroes stand for exactly those two: **Achilles** is the art of violence, **Odysseus** is the art of rhetoric. *"Those are more or less Greece's two biggest heroes."*
 
-> This pairing already appears in [Greek Civilization](../../../010_Greek_DONE/readme.md) ("the two paths of persuasion"). Talk 14 adds the part that tracks how the Odysseus path **degrades**.
+> This pairing already appears in [Greek Civilization](../../HistoryAnalysis/010_Greek_DONE/readme.md) ("the two paths of persuasion"). Talk 14 adds the part that tracks how the Odysseus path **degrades**.
 
 ### What rhetoric is, and what it runs on
 
@@ -119,4 +119,4 @@ That is the correct use of this idea: not to label other people, but to audit yo
 - [04 — Legitimacy is manufactured](04_legitimacy-is-manufactured.md): "hire a poet to write something good and propagate it" — rhetoric at industrial scale.
 - [05 — Beauty → Meaning → Ritual](05_beauty-meaning-ritual-fear.md): the "honest with yourself" condition reappears there.
 - [10 — Individual or society](10_individual-or-society.md): the argument with Nhật is a live specimen for testing both tools.
-- [Socrates & Plato](../../../010_Greek_DONE/socrates_plato_detail.md)
+- [Socrates & Plato](../../HistoryAnalysis/010_Greek_DONE/socrates_plato_detail.md)

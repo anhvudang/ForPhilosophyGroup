@@ -144,6 +144,6 @@ Hệ quả thực hành: thứ cần bảo vệ trong một tổ chức dưới 
 - [04 — Tính chính thống được chế tạo](04_tinh-chinh-thong-duoc-che-tao_vi.md): mọi con số trong file này đều đi qua bộ lọc của bên thắng.
 - [07 — Cai trị qua nhóm elite](07_cai-tri-qua-nhom-elite_vi.md): cùng một logic chi phí — đánh vào điểm quyết định, không đánh vào toàn khối.
 - [05 — Sự Đẹp → Nghĩa → Lễ](05_su-dep-nghia-le-su-so_vi.md): hành vi risk-taking của Alexander không giải thích được bằng tính toán.
-- [Macedonia & Đế Chế Hy Lạp](../../README_vi.md) — chi tiết ba trận chiến đã kiểm chứng.
-- [Alexander Đại Đế](../../alexander-the-great_vi.md) — ba trận chiến, chi tiết hơn.
-- [Những Cải Cách Quân Sự Của Philip](../../details/philip-military-innovations_vi.md) — nguồn gốc của đội quân đó.
+- [Macedonia & Đế Chế Hy Lạp](../../HistoryAnalysis/020_MacedoniaGreekEmpire/README_vi.md) — chi tiết ba trận chiến đã kiểm chứng.
+- [Alexander Đại Đế](../../HistoryAnalysis/020_MacedoniaGreekEmpire/alexander-the-great_vi.md) — ba trận chiến, chi tiết hơn.
+- [Những Cải Cách Quân Sự Của Philip](../../HistoryAnalysis/020_MacedoniaGreekEmpire/details/philip-military-innovations_vi.md) — nguồn gốc của đội quân đó.

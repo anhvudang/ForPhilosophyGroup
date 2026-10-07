@@ -128,4 +128,4 @@ Present-day application: the same model explains why an organization can have it
 - [04 — Legitimacy is manufactured](04_legitimacy-is-manufactured.md)
 - [09 — "Country" is a very recent idea](09_the-nation-is-a-recent-idea.md): explains why the population didn't resist.
 - [01 — Systematization is the engine of spread](01_systematization-as-engine.md)
-- [Macedonia & the Greek Empire](../../README.md)
+- [Macedonia & the Greek Empire](../../HistoryAnalysis/020_MacedoniaGreekEmpire/README.md)

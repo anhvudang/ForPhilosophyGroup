@@ -128,5 +128,5 @@ One concrete application: the figure of "Ritual" in [file 05](05_beauty-meaning-
 - [01 — Systematization is the engine of spread](01_systematization-as-engine.md)
 - [02 — Rhetoric and dialectic](02_rhetoric-and-dialectic.md)
 - [05 — Beauty → Meaning → Ritual](05_beauty-meaning-ritual-fear.md)
-- [Socrates & Plato (detail)](../../../010_Greek_DONE/socrates_plato_detail.md)
-- [Aristotle](../../aristotle.md) — the fact-checked account.
+- [Socrates & Plato (detail)](../../HistoryAnalysis/010_Greek_DONE/socrates_plato_detail.md)
+- [Aristotle](../../HistoryAnalysis/020_MacedoniaGreekEmpire/aristotle.md) — the fact-checked account.

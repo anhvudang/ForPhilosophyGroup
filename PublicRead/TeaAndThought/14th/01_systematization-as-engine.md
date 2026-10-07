@@ -108,5 +108,5 @@ Also: Aristotle founded the Lyceum in Athens **after** Alexander had departed, a
 - [02 — Rhetoric and dialectic](02_rhetoric-and-dialectic.md): the hierarchy Aristotle imposed on these two tools is a concrete instance of systematization.
 - [04 — Legitimacy is manufactured](04_legitimacy-is-manufactured.md): the Library of Alexandria was both a systematizing machine and a legitimacy machine.
 - [05 — Beauty → Meaning → Ritual](05_beauty-meaning-ritual-fear.md): "boxing it up kills growth" is the same mechanism as "Ritual copies, Meaning doesn't."
-- [Macedonia & the Greek Empire](../../README.md)
-- [Aristotle](../../aristotle.md) — the fact-checked account of Aristotle and the Lyceum.
+- [Macedonia & the Greek Empire](../../HistoryAnalysis/020_MacedoniaGreekEmpire/README.md)
+- [Aristotle](../../HistoryAnalysis/020_MacedoniaGreekEmpire/aristotle.md) — the fact-checked account of Aristotle and the Lyceum.

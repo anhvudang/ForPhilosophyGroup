@@ -162,7 +162,7 @@ And Thái added a fourth: **ask about the process that generated the idea**, not
 1. **Start from [file 06](06_recipes-and-wisdom.md)** — the cooking analogy is the only place both sides agree. Building from common ground is easier than building from the conflict.
 2. **Clear the self-contradiction about Fear first.** Until it is cleared, everything after it stands on soft ground.
 3. **Pick one scope and defend only that.** If individual, drop the social graph. If you want to keep the social graph, you need a test criterion.
-4. **Read Nietzsche first.** Both Vũ and Nhật noticed the overlap during the talk (*"welcome to Nietzsche's thinking"*). The repo already has [Nietzsche/Analysis](../../../../Nietzsche/Analysis/analysis.md). If part of the model has already been worked out more thoroughly by someone else, reusing it is faster than rebuilding.
+4. **Read Nietzsche first.** Both Vũ and Nhật noticed the overlap during the talk (*"welcome to Nietzsche's thinking"*). The repo already has [Nietzsche/Analysis](../../Nietzsche/Analysis/analysis.md). If part of the model has already been worked out more thoroughly by someone else, reusing it is faster than rebuilding.
 5. **Answer Thái's question from Part 2** (three kings, three identical propaganda messages). It went unanswered, and the plausible answer — *people choose by power and proximity, not by content* — actually reinforces Nhật more than Vũ. See [file 04](04_legitimacy-is-manufactured.md).
 
 ---
@@ -181,4 +181,4 @@ And the session closed with Vũ inviting everyone to stay for food and drink and
 - [06 — Recipes and wisdom](06_recipes-and-wisdom.md): the common ground.
 - [02 — Rhetoric and dialectic](02_rhetoric-and-dialectic.md): the two tools both sides were using, and Vũ's own admission of which one he was on.
 - [04 — Legitimacy is manufactured](04_legitimacy-is-manufactured.md): Thái's unanswered question.
-- [Nietzsche/Analysis](../../../../Nietzsche/Analysis/analysis.md)
+- [Nietzsche/Analysis](../../Nietzsche/Analysis/analysis.md)

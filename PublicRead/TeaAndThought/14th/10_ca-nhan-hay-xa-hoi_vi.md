@@ -162,7 +162,7 @@ Và Thái thêm một kỹ thuật thứ tư: **hỏi về quá trình sinh ra �
 1. **Khởi điểm nên là [file 06](06_cong-thuc-va-tri-tue_vi.md)** — ẩn dụ nấu ăn là chỗ duy nhất hai bên đồng ý. Xây từ mặt bằng chung dễ hơn xây từ chỗ xung đột.
 2. **Gỡ tự mâu thuẫn về Sự Sợ trước tiên.** Chừng nào chưa gỡ, mọi phần sau đều đứng trên đất lún.
 3. **Chọn một phạm vi và chỉ bảo vệ phạm vi đó.** Nếu là cá nhân thì bỏ đồ thị xã hội. Nếu muốn giữ đồ thị xã hội thì phải có tiêu chí kiểm chứng.
-4. **Đọc Nietzsche trước.** Cả Vũ và chị Nhật đều nhận ra điểm trùng trong buổi (*"chào mừng đến tới với tư duy của Nietzsche"*). Trong repo đã có [Nietzsche/Analysis](../../../../Nietzsche/Analysis/analysis.md). Nếu một phần của mô hình đã có người làm kỹ hơn, dùng lại sẽ nhanh hơn tự dựng.
+4. **Đọc Nietzsche trước.** Cả Vũ và chị Nhật đều nhận ra điểm trùng trong buổi (*"chào mừng đến tới với tư duy của Nietzsche"*). Trong repo đã có [Nietzsche/Analysis](../../Nietzsche/Analysis/analysis.md). Nếu một phần của mô hình đã có người làm kỹ hơn, dùng lại sẽ nhanh hơn tự dựng.
 5. **Trả lời câu hỏi của Thái từ phần 2** (ba ông vua, ba tuyên truyền y hệt nhau). Nó chưa được trả lời, và câu trả lời khả dĩ — *người ta chọn theo quyền lực và khoảng cách, không theo nội dung* — thực ra củng cố cho chị Nhật nhiều hơn cho Vũ. Xem [file 04](04_tinh-chinh-thong-duoc-che-tao_vi.md).
 
 ---
@@ -181,4 +181,4 @@ Và buổi kết bằng việc Vũ mời mọi người ở lại ăn uống và
 - [06 — Công thức và trí tuệ](06_cong-thuc-va-tri-tue_vi.md): mặt bằng chung.
 - [02 — Rhetoric và Dialectic](02_rhetoric-va-dialectic_vi.md): hai công cụ mà cả hai bên đang dùng, và việc Vũ tự nhận mình đang dùng cái nào.
 - [04 — Tính chính thống được chế tạo](04_tinh-chinh-thong-duoc-che-tao_vi.md): câu hỏi chưa trả lời của Thái.
-- [Nietzsche/Analysis](../../../../Nietzsche/Analysis/analysis.md)
+- [Nietzsche/Analysis](../../Nietzsche/Analysis/analysis.md)

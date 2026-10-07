@@ -81,10 +81,10 @@ The ten ideas below stand on their own — taken out of the talk, they still hol
 
 ## 4. Related material in this repo
 
-- [Macedonia & the Greek Empire](../../README.md) — the corresponding history write-up: fuller and fact-checked.
-- [Alexander the Great](../../alexander-the-great.md) and [Aristotle](../../aristotle.md) — the verified versions of the two figures this talk covered.
-- [Philip's Military Innovations](../../details/philip-military-innovations.md) — where that army came from.
-- [Greek Civilization](../../../010_Greek_DONE/readme.md) — arete, eudaimonia, and the two paths of persuasion (Odysseus / Achilles).
-- [Socrates & Plato](../../../010_Greek_DONE/socrates_plato_detail.md)
-- [Ideas_TODO/Quality_SựĐẹp.md](../../../../Ideas_TODO/Quality_SựĐẹp.md) — an empty placeholder; [file 05](05_beauty-meaning-ritual-fear.md) is the material for filling it.
-- [Nietzsche/Analysis](../../../../Nietzsche/Analysis/analysis.md) — Vũ himself placed his model near Nietzsche, and Nhật said so too during the talk ("welcome to Nietzsche's thinking").
+- [Macedonia & the Greek Empire](../../HistoryAnalysis/020_MacedoniaGreekEmpire/README.md) — the corresponding history write-up: fuller and fact-checked.
+- [Alexander the Great](../../HistoryAnalysis/020_MacedoniaGreekEmpire/alexander-the-great.md) and [Aristotle](../../HistoryAnalysis/020_MacedoniaGreekEmpire/aristotle.md) — the verified versions of the two figures this talk covered.
+- [Philip's Military Innovations](../../HistoryAnalysis/020_MacedoniaGreekEmpire/details/philip-military-innovations.md) — where that army came from.
+- [Greek Civilization](../../HistoryAnalysis/010_Greek_DONE/readme.md) — arete, eudaimonia, and the two paths of persuasion (Odysseus / Achilles).
+- [Socrates & Plato](../../HistoryAnalysis/010_Greek_DONE/socrates_plato_detail.md)
+- [Ideas_TODO/Quality_SựĐẹp.md](../../Ideas_TODO/Quality_SựĐẹp.md) — an empty placeholder; [file 05](05_beauty-meaning-ritual-fear.md) is the material for filling it.
+- [Nietzsche/Analysis](../../Nietzsche/Analysis/analysis.md) — Vũ himself placed his model near Nietzsche, and Nhật said so too during the talk ("welcome to Nietzsche's thinking").
